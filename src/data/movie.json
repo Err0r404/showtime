@@ -1,0 +1,3425 @@
+{
+  "movie": {
+    "code": 228558,
+    "movieType": {
+      "code": 4002,
+      "$": "Long-m\u00e9trage"
+    },
+    "originalTitle": "Jurassic World: Fallen Kingdom",
+    "title": "Jurassic World: Fallen Kingdom",
+    "keywords": "Jurassic Park V, Jurassic World 2, Jurassic World Sequel, Jurassic Park 5, Jurassic, Chris Pratt, Fallen Kingdom ",
+    "productionYear": 2018,
+    "nationality": [
+      {
+        "code": 5002,
+        "$": "U.S.A."
+      }
+    ],
+    "genre": [
+      {
+        "code": 13001,
+        "$": "Aventure"
+      },
+      {
+        "code": 13021,
+        "$": "Science fiction"
+      }
+    ],
+    "release": {
+      "releaseDate": "2018-06-06",
+      "country": {
+        "code": 5001,
+        "$": "France"
+      },
+      "releaseState": {
+        "code": 3004,
+        "$": "Sortie en salle"
+      },
+      "distributor": {
+        "code": 15897,
+        "name": "Universal Pictures International France"
+      }
+    },
+    "runtime": 7680,
+    "color": {
+      "code": 12001,
+      "$": "Couleur"
+    },
+    "language": [
+      {
+        "code": 6002,
+        "$": "Anglais"
+      }
+    ],
+    "synopsis": "Cela fait maintenant trois ans que les dinosaures se sont \u00e9chapp\u00e9s de leurs enclos et ont d\u00e9truit le parc \u00e0 th\u00e8me et complexe de luxe Jurassic World. Isla Nublar a \u00e9t\u00e9 abandonn\u00e9e par les humains alors que les dinosaures survivants sont livr\u00e9s \u00e0 eux-m\u00eames dans la jungle.\u00a0Lorsque le volcan inactif de l'\u00eele commence \u00e0 rugir, Owen et Claire s\u2019organisent pour sauver les dinosaures restants de l\u2019extinction.\u00a0 Owen se fait un devoir de retrouver Blue, son principal raptor qui a disparu dans la nature, alors que Claire, qui a maintenant un v\u00e9ritable respect pour ces cr\u00e9atures, s\u2019en fait une mission.\u00a0Arrivant sur l'\u00eele instable alors que la lave commence \u00e0 pleuvoir, leur exp\u00e9dition d\u00e9couvre une conspiration qui pourrait ramener toute notre plan\u00e8te \u00e0 un ordre p\u00e9rilleux jamais vu depuis la pr\u00e9histoire.",
+    "synopsisShort": "Cela fait maintenant trois ans que les dinosaures se sont \u00e9chapp\u00e9s et ont d\u00e9truit le parc \u00e0 th\u00e8me Jurassic World. Isla Nublar a \u00e9t\u00e9 abandonn\u00e9e par les humains alors que les dinosaures survivants sont livr\u00e9s \u00e0 eux-m\u00eames dans la jungle. Lorsque le volcan inactif de l'\u00eele commence \u00e0 rugir, Owen et Claire s\u2019organisent pour sauver les dinosaures restants de l\u2019extinction..",
+    "castingShort": {
+      "directors": "Juan Antonio Bayona",
+      "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+    },
+    "castMember": [
+      {
+        "person": {
+          "code": 190649,
+          "name": "Juan Antonio Bayona"
+        },
+        "activity": {
+          "code": 8002,
+          "$": "R\u00e9alisateur"
+        },
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/16\/04\/19\/14\/51\/083331.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/16\/04\/19\/14\/51\/083331.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 98332,
+          "name": "Chris Pratt"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Owen Grady",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/07\/27\/13\/07\/079239.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/15\/07\/27\/13\/07\/079239.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 91615,
+          "name": "Bryce Dallas Howard"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Claire Dearing",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/06\/30\/16\/28\/467765.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/15\/06\/30\/16\/28\/467765.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 132734,
+          "name": "Rafe Spall"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Eli Mills",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/09\/22\/17\/23\/163969.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/15\/09\/22\/17\/23\/163969.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 433024,
+          "name": "Justice Smith"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Franklin",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/07\/23\/13\/48\/365672.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/15\/07\/23\/13\/48\/365672.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 561935,
+          "name": "Daniella Pineda"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Zia Rodriguez",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/03\/16\/13\/39\/478584.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/15\/03\/16\/13\/39\/478584.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 20967,
+          "name": "James Cromwell"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Benjamin Lockwood",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/16\/10\/17\/11\/51\/050170.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/16\/10\/17\/11\/51\/050170.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 83894,
+          "name": "Toby Jones"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Mr. Eversoll",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/07\/01\/17\/12\/570456.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/15\/07\/01\/17\/12\/570456.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 839083,
+          "name": "Isabella Sermon"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Maisie Lockwood",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/18\/06\/05\/15\/20\/5519882.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/06\/05\/15\/20\/5519882.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 3439,
+          "name": "Jeff Goldblum"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Ian Malcolm",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/17\/09\/13\/17\/23\/2630896.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/17\/09\/13\/17\/23\/2630896.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 17412,
+          "name": "B.D. Wong"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Henry Wu",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/06\/01\/11\/10\/475199.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/15\/06\/01\/11\/10\/475199.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 9488,
+          "name": "Ted Levine"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Ken Wheatley",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/16\/07\/28\/14\/46\/192012.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/16\/07\/28\/14\/46\/192012.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 602,
+          "name": "Geraldine Chaplin"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Iris",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/10\/19\/11\/54\/316429.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/15\/10\/19\/11\/54\/316429.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 452438,
+          "name": "Robert Emms"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Jack",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/medias\/nmedia\/18\/92\/80\/16\/20218421.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/medias\/nmedia\/18\/92\/80\/16\/20218421.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 11021,
+          "name": "Peter Jason"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "S\u00e9nateur Sherwood"
+      },
+      {
+        "person": {
+          "code": 79183,
+          "name": "Max Baker"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "M. Swanbeck "
+      },
+      {
+        "person": {
+          "code": 759705,
+          "name": "Kamil Lemieszewski"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        }
+      },
+      {
+        "person": {
+          "code": 120476,
+          "name": "Michael Papajohn"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Entrepreneur InGen",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/07\/27\/17\/52\/514026.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/15\/07\/27\/17\/52\/514026.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 740829,
+          "name": "Daniel Stisen"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Garde du corps russe"
+      },
+      {
+        "person": {
+          "code": 738844,
+          "name": "Jo Hart"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Femme qui hurle"
+      },
+      {
+        "person": {
+          "code": 156221,
+          "name": "Faith Fay"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Mercenaire"
+      },
+      {
+        "person": {
+          "code": 808560,
+          "name": "Kevin Layne (II)"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Pilote sous-marin "
+      },
+      {
+        "person": {
+          "code": 722693,
+          "name": "David Olawale Ayinde"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Reporter",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/17\/07\/12\/13\/49\/274750.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/17\/07\/12\/13\/49\/274750.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 811560,
+          "name": "Fran Targ"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Invit\u00e9 audition"
+      },
+      {
+        "person": {
+          "code": 233253,
+          "name": "Ronan Summers"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Mercerie "
+      },
+      {
+        "person": {
+          "code": 796177,
+          "name": "Jag Patel"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Consultant"
+      },
+      {
+        "person": {
+          "code": 49399,
+          "name": "Cory Peterson"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Pr\u00e9sident du comit\u00e9"
+      },
+      {
+        "person": {
+          "code": 596963,
+          "name": "Charlie Rawes"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Chef mercenaire"
+      },
+      {
+        "person": {
+          "code": 748678,
+          "name": "Manoj Anand"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Photographe"
+      },
+      {
+        "person": {
+          "code": 638729,
+          "name": "Bao Tieu"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Interne"
+      },
+      {
+        "person": {
+          "code": 695156,
+          "name": "Eric Kofi Abrefa"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Homme h\u00e9licopt\u00e8re"
+      },
+      {
+        "person": {
+          "code": 224613,
+          "name": "Ben Peel"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Homme h\u00e9licopt\u00e8re"
+      },
+      {
+        "person": {
+          "code": 53931,
+          "name": "Mark Griffin"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Homme h\u00e9licopt\u00e8re"
+      },
+      {
+        "person": {
+          "code": 843145,
+          "name": "Paul Sockett"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Mercenaire barbu"
+      },
+      {
+        "person": {
+          "code": 672465,
+          "name": "Doug Robson"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Mercenaire du tunnel"
+      },
+      {
+        "person": {
+          "code": 398029,
+          "name": "Gil Kolirin"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "L\u2019homme de main de Mills",
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/06\/01\/18\/56\/298977.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/15\/06\/01\/18\/56\/298977.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 796582,
+          "name": "Mitchell L. Johnson"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Mercenaire dans la jungle"
+      },
+      {
+        "person": {
+          "code": 22301,
+          "name": "Frank Marshall"
+        },
+        "activity": {
+          "code": 8029,
+          "$": "Producteur"
+        },
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/16\/07\/13\/11\/20\/328943.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/16\/07\/13\/11\/20\/328943.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 70224,
+          "name": "Thomas Hayslip"
+        },
+        "activity": {
+          "code": 8063,
+          "$": "Coproducteur"
+        }
+      },
+      {
+        "person": {
+          "code": 139992,
+          "name": "Thomas Tull"
+        },
+        "activity": {
+          "code": 8062,
+          "$": "Producteur ex\u00e9cutif"
+        }
+      },
+      {
+        "person": {
+          "code": 232126,
+          "name": "Colin Trevorrow"
+        },
+        "activity": {
+          "code": 8061,
+          "$": "Producteur d\u00e9l\u00e9gu\u00e9"
+        },
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/06\/01\/10\/44\/296035.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/15\/06\/01\/10\/44\/296035.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 471,
+          "name": "Steven Spielberg"
+        },
+        "activity": {
+          "code": 8061,
+          "$": "Producteur d\u00e9l\u00e9gu\u00e9"
+        },
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/16\/05\/17\/11\/39\/453609.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/16\/05\/17\/11\/39\/453609.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 52916,
+          "name": "Patrick Crowley"
+        },
+        "activity": {
+          "code": 8029,
+          "$": "Producteur"
+        },
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/06\/01\/10\/45\/550006.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/15\/06\/01\/10\/45\/550006.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 202519,
+          "name": "Bel\u00e9n Atienza"
+        },
+        "activity": {
+          "code": 8029,
+          "$": "Producteur"
+        }
+      },
+      {
+        "person": {
+          "code": 1645,
+          "name": "Michael Crichton"
+        },
+        "activity": {
+          "code": 8105,
+          "$": "D'apr\u00e8s les personnages cr\u00e9\u00e9s par"
+        },
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/210\/244\/21024416_20130805125638248.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/210\/244\/21024416_20130805125638248.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 232126,
+          "name": "Colin Trevorrow"
+        },
+        "activity": {
+          "code": 8004,
+          "$": "Sc\u00e9nariste"
+        },
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/15\/06\/01\/10\/44\/296035.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/15\/06\/01\/10\/44\/296035.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 549604,
+          "name": "Derek Connolly"
+        },
+        "activity": {
+          "code": 8004,
+          "$": "Sc\u00e9nariste"
+        },
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/16\/05\/13\/14\/29\/024881.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/16\/05\/13\/14\/29\/024881.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 97144,
+          "name": "Nina Gold"
+        },
+        "activity": {
+          "code": 8041,
+          "$": "Directrice du casting"
+        }
+      },
+      {
+        "person": {
+          "code": 97868,
+          "name": "Bernat Vilaplana"
+        },
+        "activity": {
+          "code": 8046,
+          "$": "Monteur"
+        }
+      },
+      {
+        "person": {
+          "code": 101178,
+          "name": "Sammy Sheldon"
+        },
+        "activity": {
+          "code": 8220,
+          "$": "Chef costumier"
+        }
+      },
+      {
+        "person": {
+          "code": 155020,
+          "name": "Rob Inch"
+        },
+        "activity": {
+          "code": 8122,
+          "$": "Coordinateur des cascades"
+        }
+      },
+      {
+        "person": {
+          "code": 206002,
+          "name": "Andy Nicholson"
+        },
+        "activity": {
+          "code": 8059,
+          "$": "Chef d\u00e9corateur"
+        }
+      },
+      {
+        "person": {
+          "code": 211516,
+          "name": "Neal Scanlan"
+        },
+        "activity": {
+          "code": 8128,
+          "$": "Superviseur des effets sp\u00e9ciaux"
+        }
+      },
+      {
+        "person": {
+          "code": 213922,
+          "name": "Oscar Faura"
+        },
+        "activity": {
+          "code": 8037,
+          "$": "Directeur de la photographie"
+        }
+      },
+      {
+        "person": {
+          "code": 214176,
+          "name": "Frances Hannon"
+        },
+        "activity": {
+          "code": 8241,
+          "$": "Chef maquilleur"
+        }
+      },
+      {
+        "person": {
+          "code": 449055,
+          "name": "Steve Costello"
+        },
+        "activity": {
+          "code": 8215,
+          "$": "Electricien"
+        }
+      },
+      {
+        "person": {
+          "code": 488848,
+          "name": "John Casali"
+        },
+        "activity": {
+          "code": 8074,
+          "$": "Mixage"
+        }
+      },
+      {
+        "person": {
+          "code": 501745,
+          "name": "Karen Cohen"
+        },
+        "activity": {
+          "code": 8040,
+          "$": "Maquilleuse"
+        }
+      },
+      {
+        "person": {
+          "code": 501745,
+          "name": "Karen Cohen"
+        },
+        "activity": {
+          "code": 8137,
+          "$": "Coiffeuse"
+        }
+      },
+      {
+        "person": {
+          "code": 555313,
+          "name": "David Vickery"
+        },
+        "activity": {
+          "code": 8048,
+          "$": "Effets sp\u00e9ciaux"
+        }
+      },
+      {
+        "person": {
+          "code": 555313,
+          "name": "David Vickery"
+        },
+        "activity": {
+          "code": 8060,
+          "$": "Superviseur des effets visuels"
+        }
+      },
+      {
+        "person": {
+          "code": 638763,
+          "name": "Guy Bradley"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 736748,
+          "name": "Glenn Mcintosh"
+        },
+        "activity": {
+          "code": 8118,
+          "$": "Animateur"
+        }
+      },
+      {
+        "person": {
+          "code": 206002,
+          "name": "Andy Nicholson"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 211516,
+          "name": "Neal Scanlan"
+        },
+        "activity": {
+          "code": 8060,
+          "$": "Superviseur des effets visuels"
+        }
+      },
+      {
+        "person": {
+          "code": 762942,
+          "name": "Alex Wuttke"
+        },
+        "activity": {
+          "code": 8048,
+          "$": "Effets sp\u00e9ciaux"
+        }
+      },
+      {
+        "person": {
+          "code": 190599,
+          "name": "Jason Knox-Johnston"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 699033,
+          "name": "Matt Wynne"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 152596,
+          "name": "Sylvie Forestier"
+        },
+        "activity": {
+          "code": 8010,
+          "$": "Attach\u00e9e de presse"
+        }
+      },
+      {
+        "person": {
+          "code": 737043,
+          "name": "Youmaly Ba"
+        },
+        "activity": {
+          "code": 8010,
+          "$": "Attach\u00e9e de presse"
+        }
+      },
+      {
+        "person": {
+          "code": 818262,
+          "name": "Cl\u00e9mence Joffre"
+        },
+        "activity": {
+          "code": 8010,
+          "$": "Attach\u00e9e de presse"
+        }
+      },
+      {
+        "person": {
+          "code": 99790,
+          "name": "Michael Giacchino"
+        },
+        "activity": {
+          "code": 8114,
+          "$": "Compositeur (chansons du film)"
+        },
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/16\/10\/21\/15\/59\/114570.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/16\/10\/21\/15\/59\/114570.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 99790,
+          "name": "Michael Giacchino"
+        },
+        "activity": {
+          "code": 8003,
+          "$": "Compositeur"
+        },
+        "picture": {
+          "name": "Photo Jurassic World: Fallen Kingdom",
+          "path": "\/pictures\/16\/10\/21\/15\/59\/114570.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/16\/10\/21\/15\/59\/114570.jpg"
+        }
+      }
+    ],
+    "movieCertificate": {
+      "certificate": {
+        "code": 14035,
+        "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+      }
+    },
+    "poster": {
+      "name": "Affiche Jurassic World: Fallen Kingdom",
+      "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+    },
+    "trailer": {
+      "name": "Bande-Annonce Jurassic World: Fallen Kingdom",
+      "code": 19578026,
+      "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+    },
+    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+    "hasShowtime": 1,
+    "link": [
+      {
+        "rel": "aco:web",
+        "name": "Jurassic World: Fallen Kingdom",
+        "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+      },
+      {
+        "rel": "aco:web_casting",
+        "name": "Casting Jurassic World: Fallen Kingdom",
+        "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/casting\/"
+      },
+      {
+        "rel": "aco:web_trivia",
+        "name": "Anecdotes Jurassic World: Fallen Kingdom",
+        "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/secrets-tournage\/"
+      },
+      {
+        "rel": "aco:web_showtimes",
+        "name": "S\u00e9ances Jurassic World: Fallen Kingdom",
+        "href": "http:\/\/www.allocine.fr\/seance\/film-228558\/"
+      },
+      {
+        "rel": "aco:web_publicreviews",
+        "name": "Critiques Spectateurs Jurassic World: Fallen Kingdom",
+        "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/critiques\/spectateurs\/"
+      },
+      {
+        "rel": "aco:web_pressreviews",
+        "name": "Critiques presse Jurassic World: Fallen Kingdom",
+        "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/critiques\/presse\/"
+      },
+      {
+        "rel": "aco:web_shots",
+        "name": "Photos Jurassic World: Fallen Kingdom",
+        "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/"
+      },
+      {
+        "rel": "aco:web_trailers",
+        "name": "Bandes annonces Jurassic World: Fallen Kingdom",
+        "href": "http:\/\/www.allocine.fr\/videos\/fichefilm-228558\/toutes\/"
+      },
+      {
+        "rel": "aco:web_products",
+        "name": "Jurassic World: Fallen Kingdom",
+        "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/vod-dvd\/"
+      }
+    ],
+    "media": [
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21516636,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Affiche",
+        "thumbnail": {
+          "path": "\/pictures\/18\/06\/05\/09\/04\/3039533.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/06\/05\/09\/04\/3039533.jpg"
+        },
+        "width": 948,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21516636"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21516635,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Affiche",
+        "thumbnail": {
+          "path": "\/pictures\/18\/06\/05\/09\/04\/3025470.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/06\/05\/09\/04\/3025470.jpg"
+        },
+        "width": 947,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21516635"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21516634,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Affiche",
+        "thumbnail": {
+          "path": "\/pictures\/18\/06\/05\/09\/04\/3011408.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/18\/06\/05\/09\/04\/3011408.jpg"
+        },
+        "width": 979,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21516634"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514982,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Affiche",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/30\/11\/00\/0025702.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/05\/30\/11\/00\/0025702.jpg"
+        },
+        "width": 1080,
+        "height": 1600,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514982"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21503604,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Affiche",
+        "thumbnail": {
+          "path": "\/pictures\/18\/04\/19\/09\/16\/5274856.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/04\/19\/09\/16\/5274856.jpg"
+        },
+        "width": 947,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21503604"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21503120,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Affiche",
+        "thumbnail": {
+          "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+        },
+        "width": 1100,
+        "height": 1600,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21503120"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21421969,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Affiche",
+        "thumbnail": {
+          "path": "\/pictures\/17\/06\/26\/10\/12\/307198.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/17\/06\/26\/10\/12\/307198.jpg"
+        },
+        "width": 989,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21421969"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514486,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Bryce Dallas Howard, Chris Pratt, Daniella Pineda, Justice Smith",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/14\/00\/5198641.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/18\/05\/28\/14\/00\/5198641.jpg"
+        },
+        "width": 1600,
+        "height": 866,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514486"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514485,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Justice Smith",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/14\/00\/5167391.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/05\/28\/14\/00\/5167391.jpg"
+        },
+        "width": 1600,
+        "height": 676,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514485"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514483,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Toby Jones",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/58\/2576825.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/05\/28\/13\/58\/2576825.jpg"
+        },
+        "width": 1600,
+        "height": 742,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514483"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514482,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Isabella Sermon",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/58\/2556513.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/18\/05\/28\/13\/58\/2556513.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514482"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514481,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Bryce Dallas Howard, Chris Pratt",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/58\/2540889.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/05\/28\/13\/58\/2540889.jpg"
+        },
+        "width": 1600,
+        "height": 748,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514481"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514480,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Bryce Dallas Howard, Chris Pratt, Isabella Sermon",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/58\/2515889.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/05\/28\/13\/58\/2515889.jpg"
+        },
+        "width": 1600,
+        "height": 746,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514480"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514479,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Ted Levine",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/58\/2501827.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/05\/28\/13\/58\/2501827.jpg"
+        },
+        "width": 1600,
+        "height": 745,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514479"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514478,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Bryce Dallas Howard, Justice Smith",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/58\/2487765.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/18\/05\/28\/13\/58\/2487765.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514478"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514477,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Chris Pratt",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/58\/2469015.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/18\/05\/28\/13\/58\/2469015.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514477"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514476,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/58\/2453390.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/05\/28\/13\/58\/2453390.jpg"
+        },
+        "width": 1600,
+        "height": 866,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514476"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514475,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/58\/2439328.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/05\/28\/13\/58\/2439328.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514475"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514473,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Rafe Spall",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/5506572.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/05\/28\/13\/57\/5506572.jpg"
+        },
+        "width": 1600,
+        "height": 1166,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514473"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514472,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Justice Smith",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/5492510.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/05\/28\/13\/57\/5492510.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514472"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514471,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Isabella Sermon",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/5476885.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/05\/28\/13\/57\/5476885.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514471"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514470,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo James Cromwell",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/5462823.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/05\/28\/13\/57\/5462823.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514470"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514469,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Daniella Pineda, Ted Levine",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/5436261.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/05\/28\/13\/57\/5436261.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514469"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514468,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Rafe Spall, Toby Jones",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/5422198.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/05\/28\/13\/57\/5422198.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514468"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514467,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Daniella Pineda",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/5406574.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/05\/28\/13\/57\/5406574.jpg"
+        },
+        "width": 1600,
+        "height": 687,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514467"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514466,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Juan Antonio Bayona",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/5386262.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/05\/28\/13\/57\/5386262.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514466"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514465,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Bryce Dallas Howard, Chris Pratt",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/5362825.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/05\/28\/13\/57\/5362825.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514465"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514464,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Isabella Sermon",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/2075042.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/05\/28\/13\/57\/2075042.jpg"
+        },
+        "width": 1067,
+        "height": 1600,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514464"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514463,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Bryce Dallas Howard",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/2050041.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/05\/28\/13\/57\/2050041.jpg"
+        },
+        "width": 1067,
+        "height": 1600,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514463"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514462,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Chris Pratt",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/2031291.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/05\/28\/13\/57\/2031291.jpg"
+        },
+        "width": 1067,
+        "height": 1600,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514462"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21514461,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Daniella Pineda",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/28\/13\/57\/2010979.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/18\/05\/28\/13\/57\/2010979.jpg"
+        },
+        "width": 1067,
+        "height": 1600,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21514461"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21513053,
+        "type": {
+          "code": 31112,
+          "$": "Photo promotionnelle"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo promotionnelle Juan Antonio Bayona",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/23\/09\/26\/5028342.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/05\/23\/09\/26\/5028342.jpg"
+        },
+        "width": 800,
+        "height": 533,
+        "copyrightHolder": "GTRES \/ BESTIMAGE",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21513053"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21513052,
+        "type": {
+          "code": 31112,
+          "$": "Photo promotionnelle"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo promotionnelle Bryce Dallas Howard, Chris Pratt",
+        "thumbnail": {
+          "path": "\/pictures\/18\/05\/23\/09\/26\/5014279.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/05\/23\/09\/26\/5014279.jpg"
+        },
+        "width": 533,
+        "height": 800,
+        "copyrightHolder": "GTRES \/ BESTIMAGE",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21513052"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21503507,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Bryce Dallas Howard",
+        "thumbnail": {
+          "path": "\/pictures\/18\/04\/18\/17\/18\/0793121.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/18\/04\/18\/17\/18\/0793121.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": " Universal Pictures France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21503507"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21503506,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo",
+        "thumbnail": {
+          "path": "\/pictures\/18\/04\/18\/17\/18\/0779058.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/18\/04\/18\/17\/18\/0779058.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": " Universal Pictures France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21503506"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21503505,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Jeff Goldblum",
+        "thumbnail": {
+          "path": "\/pictures\/18\/04\/18\/17\/18\/0764995.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/04\/18\/17\/18\/0764995.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": " Universal Pictures France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21503505"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21503504,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Chris Pratt",
+        "thumbnail": {
+          "path": "\/pictures\/18\/04\/18\/17\/18\/0750933.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/17\/18\/0750933.jpg"
+        },
+        "width": 1600,
+        "height": 748,
+        "copyrightHolder": " Universal Pictures France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21503504"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21503503,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Chris Pratt",
+        "thumbnail": {
+          "path": "\/pictures\/18\/04\/18\/17\/18\/0736870.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/04\/18\/17\/18\/0736870.jpg"
+        },
+        "width": 1600,
+        "height": 803,
+        "copyrightHolder": " Universal Pictures France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21503503"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21503502,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Rafe Spall",
+        "thumbnail": {
+          "path": "\/pictures\/18\/04\/18\/17\/18\/0722807.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/04\/18\/17\/18\/0722807.jpg"
+        },
+        "width": 1600,
+        "height": 801,
+        "copyrightHolder": " Universal Pictures France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21503502"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21503501,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo B.D. Wong",
+        "thumbnail": {
+          "path": "\/pictures\/18\/04\/18\/17\/18\/0708745.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/04\/18\/17\/18\/0708745.jpg"
+        },
+        "width": 1600,
+        "height": 755,
+        "copyrightHolder": " Universal Pictures France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21503501"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21469647,
+        "type": {
+          "code": 31112,
+          "$": "Photo promotionnelle"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo promotionnelle",
+        "thumbnail": {
+          "path": "\/pictures\/17\/12\/13\/12\/17\/3455153.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/17\/12\/13\/12\/17\/3455153.jpg"
+        },
+        "width": 2400,
+        "height": 1600,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21469647"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21469643,
+        "type": {
+          "code": 31112,
+          "$": "Photo promotionnelle"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo promotionnelle",
+        "thumbnail": {
+          "path": "\/pictures\/17\/12\/13\/12\/17\/3398902.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/17\/12\/13\/12\/17\/3398902.jpg"
+        },
+        "width": 2400,
+        "height": 1600,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21469643"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21468698,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo",
+        "thumbnail": {
+          "path": "\/pictures\/17\/12\/08\/16\/40\/5293223.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/17\/12\/08\/16\/40\/5293223.jpg"
+        },
+        "width": 3820,
+        "height": 1600,
+        "copyrightHolder": "Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21468698"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21468183,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Bryce Dallas Howard, Justice Smith",
+        "thumbnail": {
+          "path": "\/pictures\/17\/12\/07\/08\/58\/2222283.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/17\/12\/07\/08\/58\/2222283.jpg"
+        },
+        "width": 1600,
+        "height": 774,
+        "copyrightHolder": " Universal Pictures International France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21468183"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21467977,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Chris Pratt",
+        "thumbnail": {
+          "path": "\/pictures\/17\/12\/06\/09\/25\/5366381.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/17\/12\/06\/09\/25\/5366381.jpg"
+        },
+        "width": 1600,
+        "height": 844,
+        "copyrightHolder": " Universal Pictures France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21467977"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21430996,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo Juan Antonio Bayona",
+        "thumbnail": {
+          "path": "\/pictures\/17\/08\/04\/20\/32\/581184.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/17\/08\/04\/20\/32\/581184.jpg"
+        },
+        "width": 1501,
+        "height": 1000,
+        "copyrightHolder": " Universal Pictures",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21430996"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21391615,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "Jurassic World: Fallen Kingdom : Photo",
+        "thumbnail": {
+          "path": "\/pictures\/17\/03\/09\/08\/59\/173776.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/17\/03\/09\/08\/59\/173776.jpg"
+        },
+        "width": 1200,
+        "height": 645,
+        "copyrightHolder": " Universal Pictures France",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm-228558\/photos\/detail\/?cmediafile=21391615"
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19578026,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Bande-annonce VO",
+        "titleShort": "",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 154,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 684017
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/04\/18\/17\/06\/0864394.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/videothumbnails\/18\/04\/18\/17\/06\/0864394.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578027,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Bande-annonce VF",
+        "titleShort": "",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 154,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 44382
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/04\/18\/17\/06\/1702582.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/videothumbnails\/18\/04\/18\/17\/06\/1702582.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578027&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19576808,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Bande-annonce (2) VO",
+        "titleShort": "",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 95,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 100635
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/03\/23\/17\/01\/3651649.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/videothumbnails\/18\/03\/23\/17\/01\/3651649.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19576808&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19576809,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Bande-annonce (2) VF",
+        "titleShort": "",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 95,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 22510
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/03\/23\/17\/01\/3412586.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/videothumbnails\/18\/03\/23\/17\/01\/3412586.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19576809&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19575706,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Bande-annonce (3) VO",
+        "titleShort": "",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 138,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 140908
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/03\/23\/17\/04\/4597531.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/videothumbnails\/18\/03\/23\/17\/04\/4597531.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19575706&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19575692,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Bande-annonce (3) VF",
+        "titleShort": "",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 138,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 42225
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/03\/23\/17\/04\/3824893.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/videothumbnails\/18\/03\/23\/17\/04\/3824893.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19575692&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19575587,
+        "type": {
+          "code": 31016,
+          "$": "Teaser"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Teaser VF",
+        "titleShort": "",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 15,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 119724
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/17\/12\/04\/09\/11\/4890971.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/videothumbnails\/17\/12\/04\/09\/11\/4890971.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19575587&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19575626,
+        "type": {
+          "code": 31016,
+          "$": "Teaser"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Teaser (2) VF",
+        "titleShort": "",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 15,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 22524
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/17\/12\/05\/09\/05\/2452177.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/videothumbnails\/17\/12\/05\/09\/05\/2452177.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19575626&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19575684,
+        "type": {
+          "code": 31016,
+          "$": "Teaser"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Teaser (2) VO",
+        "titleShort": "",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 15,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 14640
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/17\/12\/07\/10\/14\/1759543.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/videothumbnails\/17\/12\/07\/10\/14\/1759543.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19575684&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19577976,
+        "type": {
+          "code": 31016,
+          "$": "Teaser"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Teaser (3) VO",
+        "titleShort": "",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 30,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 35920
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/04\/16\/11\/50\/0755620.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/videothumbnails\/18\/04\/16\/11\/50\/0755620.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577976&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578516,
+        "type": {
+          "code": 31016,
+          "$": "Teaser"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom Teaser (4) VO",
+        "titleShort": "",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 30,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 822
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/05\/18\/14\/47\/4836904.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/videothumbnails\/18\/05\/18\/14\/47\/4836904.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578516&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578647,
+        "type": {
+          "code": 31004,
+          "$": "Extrait vid\u00e9o"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom EXTRAIT VO \"La traque du Carnotaurus\"",
+        "titleShort": "Jurassic World: Fallen Kingdom EXTRAIT VO \"La traque du Carnotaurus\"",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 42,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 374
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/05\/25\/16\/49\/0782900.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/videothumbnails\/18\/05\/25\/16\/49\/0782900.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578647&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578648,
+        "type": {
+          "code": 31004,
+          "$": "Extrait vid\u00e9o"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom EXTRAIT VF \"La traque du Carnotaurus\"",
+        "titleShort": "Jurassic World: Fallen Kingdom EXTRAIT VF \"La traque du Carnotaurus\"",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 42,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 845
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/05\/25\/16\/49\/2745394.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/videothumbnails\/18\/05\/25\/16\/49\/2745394.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578648&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578649,
+        "type": {
+          "code": 31004,
+          "$": "Extrait vid\u00e9o"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom EXTRAIT VO \"Le r\u00e9veil du T-Rex\"",
+        "titleShort": "Jurassic World: Fallen Kingdom EXTRAIT VO \"Le r\u00e9veil du T-Rex\"",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 21,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 136
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/05\/25\/16\/54\/2907900.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/videothumbnails\/18\/05\/25\/16\/54\/2907900.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578649&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578650,
+        "type": {
+          "code": 31004,
+          "$": "Extrait vid\u00e9o"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom EXTRAIT VF \"Le r\u00e9veil du T-Rex\"",
+        "titleShort": "Jurassic World: Fallen Kingdom EXTRAIT VF \"Le r\u00e9veil du T-Rex\"",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 21,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 300
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/05\/25\/16\/54\/0017970.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/videothumbnails\/18\/05\/25\/16\/54\/0017970.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578650&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578651,
+        "type": {
+          "code": 31004,
+          "$": "Extrait vid\u00e9o"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom EXTRAIT VO \"Premi\u00e8re rencontre avec un dinosaure\"",
+        "titleShort": "Jurassic World: Fallen Kingdom EXTRAIT VO \"Premi\u00e8re rencontre avec un dinosaure\"",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 43,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 166
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/05\/25\/16\/57\/0353790.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/videothumbnails\/18\/05\/25\/16\/57\/0353790.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578651&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578652,
+        "type": {
+          "code": 31004,
+          "$": "Extrait vid\u00e9o"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom EXTRAIT VF \"Premi\u00e8re rencontre avec un dinosaure\"",
+        "titleShort": "Jurassic World: Fallen Kingdom EXTRAIT VF \"Premi\u00e8re rencontre avec un dinosaure\"",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 43,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 364
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/05\/25\/16\/57\/2180352.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/videothumbnails\/18\/05\/25\/16\/57\/2180352.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578652&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19575681,
+        "type": {
+          "code": 31018,
+          "$": "Making Of"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom BONUS VO \"Les coulisses\"",
+        "titleShort": "Jurassic World: Fallen Kingdom BONUS VO \"Les coulisses\"",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 165,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 4935
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/17\/12\/06\/17\/06\/0379900.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/videothumbnails\/17\/12\/06\/17\/06\/0379900.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19575681&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578609,
+        "type": {
+          "code": 31018,
+          "$": "Making Of"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom BONUS VO \"L'histoire\"",
+        "titleShort": "Jurassic World: Fallen Kingdom BONUS VO \"L'histoire\"",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 153,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 49
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/05\/24\/10\/14\/3987728.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/videothumbnails\/18\/05\/24\/10\/14\/3987728.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578609&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578607,
+        "type": {
+          "code": 31018,
+          "$": "Making Of"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom BONUS VO \"La cr\u00e9ation des dinosaures\"",
+        "titleShort": "Jurassic World: Fallen Kingdom BONUS VO \"La cr\u00e9ation des dinosaures\"",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 160,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 103
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/05\/24\/10\/02\/3135233.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/videothumbnails\/18\/05\/24\/10\/02\/3135233.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578607&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578608,
+        "type": {
+          "code": 31018,
+          "$": "Making Of"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom BONUS VO \"Encore plus de dinosaures\"",
+        "titleShort": "Jurassic World: Fallen Kingdom BONUS VO \"Encore plus de dinosaures\"",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 110,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 48
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/05\/24\/10\/16\/3853505.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/videothumbnails\/18\/05\/24\/10\/16\/3853505.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578608&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578751,
+        "type": {
+          "code": 31018,
+          "$": "Making Of"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World: Fallen Kingdom BONUS VO \"L'h\u00e9ritage de Jurassic Park\"",
+        "titleShort": "Jurassic World: Fallen Kingdom BONUS VO \"L'h\u00e9ritage de Jurassic Park\"",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 199,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 53
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/06\/04\/16\/44\/1174982.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/videothumbnails\/18\/06\/04\/16\/44\/1174982.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578751&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19564011,
+        "type": {
+          "code": 31007,
+          "$": "Interview"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Chris Pratt tease Les Gardiens de la Galaxie 2 et Jurassic World 2",
+        "titleShort": "Chris Pratt tease Les Gardiens de la Galaxie 2 et Jurassic World 2",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 0,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 10285
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/16\/07\/15\/13\/02\/028431.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/videothumbnails\/16\/07\/15\/13\/02\/028431.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19564011&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19557237,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Aviez-vous remarqu\u00e9 ? Jurassic Park",
+        "titleShort": "Aviez-vous remarqu\u00e9 ? Jurassic Park",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 89,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 147060
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/15\/09\/07\/15\/37\/337348.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/videothumbnails\/15\/09\/07\/15\/37\/337348.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19557237&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19560255,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18739529,
+          "nameShort": "fauxraccord",
+          "$": "Faux Raccord"
+        },
+        "title": "Faux Raccord N\u00b0145 - Les gaffes de Jurassic World",
+        "titleShort": "Les gaffes de Jurassic World",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 529,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 127092
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/16\/01\/22\/13\/33\/117314.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/videothumbnails\/16\/01\/22\/13\/33\/117314.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19560255&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19562206,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "Jurassic World 2 par Juan Antonio Bayona : pourquoi c'est une bonne nouvelle ?",
+        "titleShort": "Jurassic World 2 par Juan Antonio Bayona : pourquoi c'est une bonne nouvelle ?",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 142,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 4522
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/16\/04\/20\/14\/19\/018311.jpg",
+          "href": "http:\/\/fr.web.img1.acsta.net\/videothumbnails\/16\/04\/20\/14\/19\/018311.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19562206&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19565387,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N\u00b0647 - Ils sont cinq, ils sont jeunes... et ils sont SEULS !",
+        "titleShort": "Ils sont cinq, ils sont jeunes... et ils sont SEULS !",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 359,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 14010
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/16\/10\/04\/12\/03\/322943.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/videothumbnails\/16\/10\/04\/12\/03\/322943.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19565387&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19566769,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N\u00b0682 - Jurassic World 2 est entre de bonnes mains !",
+        "titleShort": "Jurassic World 2 est entre de bonnes mains !",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 287,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 16792
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/16\/11\/30\/13\/37\/156656.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/videothumbnails\/16\/11\/30\/13\/37\/156656.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19566769&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19571183,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N\u00b0722 - On a rencontr\u00e9 Les Gardiens de la Galaxie",
+        "titleShort": "On a rencontr\u00e9 Les Gardiens de la Galaxie",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 773,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 58410
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/17\/04\/28\/16\/17\/543505.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/videothumbnails\/17\/04\/28\/16\/17\/543505.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19571183&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19575703,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "#Fun Facts - Jeff Goldblum",
+        "titleShort": "#Fun Facts - Jeff Goldblum",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 133,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 3044
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/17\/12\/08\/07\/53\/0222705.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/videothumbnails\/17\/12\/08\/07\/53\/0222705.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19575703&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19575790,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N\u00b0754 - Jurassic... Back !",
+        "titleShort": "Jurassic... Back !",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 281,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 12300
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/17\/12\/13\/08\/33\/1330817.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/videothumbnails\/17\/12\/13\/08\/33\/1330817.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19575790&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19576888,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N\u00b0760 - MI 6, Han Solo... Les supers spots du Super Bowl",
+        "titleShort": "MI 6, Han Solo... Les supers spots du Super Bowl",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 359,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 10851
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/02\/08\/10\/54\/1234679.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/videothumbnails\/18\/02\/08\/10\/54\/1234679.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19576888&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      },
+      {
+        "class": "video",
+        "code": 19578782,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCin\u00e9 Zap"
+        },
+        "title": "3615 VERIF : Peut-on vraiment recr\u00e9er des dinosaures ?",
+        "titleShort": "3615 VERIF : Peut-on vraiment recr\u00e9er des dinosaures ?",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Fran\u00e7ais"
+        },
+        "runtime": 114,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 962
+        },
+        "thumbnail": {
+          "path": "\/videothumbnails\/18\/06\/06\/10\/55\/1437231.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/videothumbnails\/18\/06\/06\/10\/55\/1437231.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578782&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><\/div>"
+      }
+    ],
+    "statistics": {
+      "pressRating": 3.32,
+      "pressReviewCount": 25,
+      "userRating": 3.62046242,
+      "userReviewCount": 356,
+      "userRatingCount": 2710,
+      "editorialRatingCount": 0,
+      "commentCount": 203,
+      "photoCount": 47,
+      "videoCount": 33,
+      "triviaCount": 13,
+      "newsCount": 83,
+      "rankTopMovie": 6,
+      "variationTopMovie": -1,
+      "awardCount": 0,
+      "nominationCount": 0,
+      "rating": [
+        {
+          "note": 5,
+          "$": 48
+        },
+        {
+          "note": 4.5,
+          "$": 31
+        },
+        {
+          "note": 4,
+          "$": 74
+        },
+        {
+          "note": 3.5,
+          "$": 48
+        },
+        {
+          "note": 3,
+          "$": 39
+        },
+        {
+          "note": 2.5,
+          "$": 35
+        },
+        {
+          "note": 2,
+          "$": 27
+        },
+        {
+          "note": 1.5,
+          "$": 16
+        },
+        {
+          "note": 1,
+          "$": 23
+        },
+        {
+          "note": 0.5,
+          "$": 17
+        }
+      ],
+      "fanCount": 892,
+      "wantToSeeCount": 5566,
+      "releaseWeekPosition": -1,
+      "theaterCount": 1081,
+      "theaterCountOnRelease": 696
+    },
+    "news": [
+      {
+        "code": 18673493,
+        "publication": {
+          "dateStart": "2018-06-08T19:00:00"
+        },
+        "title": "Top 10 des objets cultes de Jurassic Park & Jurassic World [PARTENAIRE]",
+        "picture": {
+          "path": "\/newsv7\/18\/06\/05\/19\/38\/5308020.jpg",
+          "href": "http:\/\/fr.web.img6.acsta.net\/newsv7\/18\/06\/05\/19\/38\/5308020.jpg"
+        },
+        "displayMode": {
+          "code": 117001
+        },
+        "pageCount": 1,
+        "category": [
+          {
+            "code": 23209,
+            "$": "Insolite"
+          }
+        ]
+      },
+      {
+        "code": 18673518,
+        "publication": {
+          "dateStart": "2018-06-06T20:00:00"
+        },
+        "title": "Sorties cin\u00e9ma : les dinosaures de Jurassic World 2 croquent les premi\u00e8res s\u00e9ances",
+        "picture": {
+          "path": "\/newsv7\/18\/06\/06\/16\/12\/0192564.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/newsv7\/18\/06\/06\/16\/12\/0192564.jpg"
+        },
+        "displayMode": {
+          "code": 117001
+        },
+        "pageCount": 1,
+        "category": [
+          {
+            "code": 23006,
+            "$": "Box Office"
+          }
+        ]
+      },
+      {
+        "code": 18673502,
+        "publication": {
+          "dateStart": "2018-06-06T12:00:00"
+        },
+        "title": "3615 Verif : Jurassic World : Fallen Kingdom \"Quand on mange du poulet, on mange du dinosaure\"",
+        "picture": {
+          "path": "\/newsv7\/18\/06\/06\/10\/17\/4906306.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/newsv7\/18\/06\/06\/10\/17\/4906306.jpg"
+        },
+        "displayMode": {
+          "code": 117001
+        },
+        "pageCount": 1,
+        "category": [
+          {
+            "code": 23218,
+            "$": "Culture cin\u00e9"
+          }
+        ]
+      },
+      {
+        "code": 18673436,
+        "publication": {
+          "dateStart": "2018-06-06T05:30:00"
+        },
+        "title": "Jurassic World 2, Le Book Club, Trois visages... Les sorties de la semaine !",
+        "picture": {
+          "path": "\/newsv7\/18\/06\/05\/17\/53\/3676730.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/newsv7\/18\/06\/05\/17\/53\/3676730.jpg"
+        },
+        "displayMode": {
+          "code": 117001
+        },
+        "pageCount": 1,
+        "category": [
+          {
+            "code": 23201,
+            "$": "Sorties Cin\u00e9"
+          }
+        ]
+      }
+    ],
+    "trivia": [
+      {
+        "code": 18563138,
+        "publication": {
+          "dateStart": "2018-05-21T17:07:00"
+        },
+        "title": "Changement de r\u00e9alisateur",
+        "body": "Apr\u00e8s Colin Trevorrow, choisi pour \u00eatre aux commandes de\u00a0Star Wars IX, c'est\u00a0Juan Antonio Bayona qui a h\u00e9rit\u00e9 du poste de r\u00e9alisateur de\u00a0Jurassic World: Fallen Kingdom. Le metteur en sc\u00e8ne espagnol avait cr\u00e9\u00e9 l'\u00e9v\u00e9nement avec L'Orphelinat, son premier long m\u00e9trage sorti en 2008, et avait connu un joli succ\u00e8s avec le film catastrophe The Impossible. Trevorrow s'est toutefois impliqu\u00e9 plus qu'il ne le pensait pour cette suite dont il a sign\u00e9 le sc\u00e9nario et a offici\u00e9 en tant que producteur. Il explique :\r\n\r\n\"Jurassic World 2 a fini par me prendre plus de temps et d'attention que je ne le pensais, juste parce que \u00e7a me tenait \u00e9norm\u00e9ment \u00e0 coeur. Je me suis surpris moi-m\u00eame de voir combien je voulais \u00eatre pr\u00e9sent, en tant que sc\u00e9nariste, pour le r\u00e9alisateur Juan Antonio Bayona. Je me souviens, quand j'ai r\u00e9alis\u00e9 Jurassic World, combien j'aurais aim\u00e9 avoir un sc\u00e9nariste \u00e0 mes c\u00f4t\u00e9s pour qu'il pense aux choses du quotidien et se demande quelles modifications nous pourrions apporter pour rendre l'ensemble bien plus efficace. Du coup, pour Jurassic World 2, j'\u00e9tais avec Juan Antonio chaque jour pour lui fournir quelque chose que je n'avais pu avoir moi-m\u00eame sur le premier film.\""
+      },
+      {
+        "code": 18563136,
+        "publication": {
+          "dateStart": "2018-05-21T16:59:00"
+        },
+        "title": "Une suite logique",
+        "body": "Etant donn\u00e9 que\u00a0Jurassic World\u00a0a r\u00e9alis\u00e9 le score tr\u00e8s impressionnant de 1 671 713 208 dollars de recettes dans le monde lors de sa sortie en salles en 2015 (pour un budget de 150 millions de dollars), une suite a rapidement \u00e9t\u00e9 lanc\u00e9e.\u00a0Jurassic World est m\u00eame devenu le cinqui\u00e8me plus gros succ\u00e8s mondial de tous les temps derri\u00e8re\u00a0Avatar, Titanic, Star Wars \u00e9pisode VII : Le R\u00e9veil de la Force et Avengers: Infinity War (au jour du 21 mai 2018)."
+      },
+      {
+        "code": 18563139,
+        "publication": {
+          "dateStart": "2018-05-21T17:08:00"
+        },
+        "title": "Plus effrayant !",
+        "body": "Le r\u00e9alisateur de Jurassic World: Fallen Kingdom,\u00a0Juan Antonio Bayona, a promis que cette suite\u00a0sera bien plus effrayante que le film pr\u00e9c\u00e9dent.\u00a0\"Il y aura davantage d'animatronique. Nous suivrons la m\u00eame r\u00e8gle g\u00e9n\u00e9rale de tous les films de la franchise : les dinosaures seront en animatronique lorsqu'ils se tiennent immobiles ou bougent simplement des cuisses ou du cou. Ils ne peuvent ni courir ni effectuer d'actions physiques complexes, et tout cela, l'animation le permet. Les m\u00eames r\u00e8gles s'appliquaient \u00e0 Jurassic Park.\""
+      },
+      {
+        "code": 18563307,
+        "publication": {
+          "dateStart": "2018-05-31T10:42:00"
+        },
+        "title": "Lieux de tournage",
+        "body": "Le tournage de Jurassic World: Fallen Kingdom a commenc\u00e9 le 23 f\u00e9vrier 2017 et s'est achev\u00e9 le 10 juillet de la m\u00eame ann\u00e9e. Parmi les lieux o\u00f9 l'\u00e9quipe de Juan Antonio Bayona a pos\u00e9 ses cam\u00e9ras, il y avait principalement des endroits situ\u00e9s dans la banlieue de Londres comme les c\u00e9l\u00e8bres studios Pinewood, le Langley Business Centre de Slough ou encore le comt\u00e9 du Berkshire. Plusieurs s\u00e9quences ont \u00e9galement \u00e9t\u00e9 r\u00e9alis\u00e9es dans le National Park de Brecon Beacons au pays de Galle ainsi que sur l'\u00eele d'Hawa\u00ef comportant de magnifiques plages et for\u00eats."
+      }
+    ],
+    "tag": [
+      {
+        "code": 5324,
+        "type": "Envies",
+        "$": "Adr\u00e9naline"
+      },
+      {
+        "code": 1108,
+        "type": "sous-genre",
+        "$": "Blockbusters \/ Superproductions"
+      },
+      {
+        "code": 5369,
+        "type": "mot-cl\u00e9",
+        "$": "Clones"
+      },
+      {
+        "code": 2453,
+        "type": "mot-cl\u00e9",
+        "$": "Dinosaures"
+      },
+      {
+        "code": 2700,
+        "type": "mot-cl\u00e9",
+        "$": "Effets sp\u00e9ciaux \/ Trucages"
+      },
+      {
+        "code": 857,
+        "type": "mot-cl\u00e9",
+        "$": "Exp\u00e9rience scientifique \/ Chercheur scientifique"
+      },
+      {
+        "code": 740,
+        "type": "mot-cl\u00e9",
+        "$": "Extinction"
+      },
+      {
+        "code": 5254,
+        "type": "Envies",
+        "$": "Frissons"
+      },
+      {
+        "code": 839,
+        "type": "mot-cl\u00e9",
+        "$": "\u00cele \/ \u00cele d\u00e9serte \/ \u00cele paradisiaque"
+      },
+      {
+        "code": 2226,
+        "type": "Versions",
+        "$": "Jurassic Park"
+      },
+      {
+        "code": 286,
+        "type": "Environnement",
+        "$": "Maison \/ Ch\u00e2teau"
+      },
+      {
+        "code": 163,
+        "type": "mot-cl\u00e9",
+        "$": "Manipulation g\u00e9n\u00e9tique"
+      },
+      {
+        "code": 1787,
+        "type": "mot-cl\u00e9",
+        "$": "Sauvetage"
+      },
+      {
+        "code": 2512,
+        "type": "sous-genre",
+        "$": "Suite \/ Sequel"
+      },
+      {
+        "code": 1050,
+        "type": "mot-cl\u00e9",
+        "$": "Volcan \/ Eruption volcanique"
+      }
+    ],
+    "boxOffice": [
+      {
+        "type": {
+          "code": 75001,
+          "$": "BO Semaine France"
+        },
+        "country": {
+          "code": 5001,
+          "$": "France"
+        },
+        "period": {
+          "dateStart": "2018-06-06",
+          "dateEnd": "2018-06-12"
+        },
+        "week": 1,
+        "admissionCount": 1396911,
+        "admissionCountTotal": 1396911,
+        "copyCount": 903
+      }
+    ],
+    "helpfulPositiveReview": [
+      {
+        "code": 59460629,
+        "opinion": 59460629,
+        "creationDate": "2018-06-05T22:39:00Z",
+        "writer": {
+          "code": "Z20150610095123013974861",
+          "name": "Doryus L.",
+          "avatar": "http:\/\/graph.facebook.com\/10153035455100369\/picture"
+        },
+        "body": "Franchement je suis tr\u00e8s heureux de cette suite.\nUn sc\u00e9nario qui sort de l'ordinaire, une tentative d'ajouter des probl\u00e9matiques profondes \u00e0 l'univers et le fait que les dinosaures ( nombreux et vari\u00e9s) sont pr\u00e9sents dans 80% des sc\u00e8nes me comble de joie.\n\nC'est parfois un peu facile mais j'ai eu le frisson \u00e0 certains moments ! Ce film est ce que j'attend d'une suite grand publique dans cet univers.\n\nBon, maintenant je vais devoir me trouver un pachycephalosaurus, c'est bien pratique ces petites b\u00eates la !",
+        "rating": 4.5
+      }
+    ],
+    "helpfulNegativeReview": [
+      {
+        "code": 59475638,
+        "opinion": 59475638,
+        "creationDate": "2018-06-07T22:31:00Z",
+        "writer": {
+          "code": "Z20090118230847590126158",
+          "name": "benoitG80",
+          "avatar": "http:\/\/fr.web.img2.acsta.net\/avatar\/FR\/8\/5\/1\/Z20090118230847590126158\/img\/jgnjfcoy.upk.jpg"
+        },
+        "body": "\u00ab\u00a0Jurassic World : Fallen Kingdom\u00a0\u00bb a un gros atout au niveau de sa r\u00e9alisation tr\u00e8s efficace et tr\u00e8s spectaculaire (Juan Antonio Bayona), mais un gros point faible quant au sc\u00e9nario archi pr\u00e9visible et au fond toujours dans le m\u00eame sch\u00e9ma de fonctionnement (Colin Trevorrow) !\nAlors oui, on fr\u00e9mit devant ces monstres qu\u2019une poign\u00e9e d\u2019hommes veulent sauver de l\u2019\u00e9ruption d\u2019un volcan au point de risquer leur vie sur cette \u00eele en fusion...\nOn se doute bien que cette mission n\u2019est pas aussi d\u00e9sint\u00e9ress\u00e9e que cette petite bande veut bien le croire, et les m\u00e9chants et cupides m\u00e9galomanes seront \u00e9videmment eux les vrais rapaces !\nTout cela est tr\u00e8s vite clair \u00e0 l\u2019\u00e9cran, de m\u00eame que la suite annonc\u00e9e, dans laquelle on devinera \u00e9videmment chaque rebondissement, chaque r\u00e9action et ce quel que soit le bord de chacun avec tout un lot d\u2019incoh\u00e9rences in\u00e9vitables au passage... \nCependant, tous ces \u00e9normes et moins gros bestiaux, font toujours tr\u00e8s tr\u00e8s peur en \u00e9tant plus vrais que nature...\nEt au fond \u00e0 chacune de leur apparition ou de leur grognement on tremble, et on se demande bien \u00e0 quelle sauce, ils mangeront leur proie !\n\u00c0 ce niveau, le film remplit son contrat sans \u00e9quivoque...\nSi les h\u00e9ros ne nous surprennent pas trop, un des points int\u00e9ressants r\u00e9side \u00e9galement dans le r\u00f4le de la petite Maisie interpr\u00e9t\u00e9e par Isabella Sermon, qui donne ainsi dans une sc\u00e8ne terrible et angoissante une dimension psychologique que n\u2019auraient pas reni\u00e9 les auteurs de quelques c\u00e9l\u00e8bres contes pour enfant, foi de Bettelheim !\nOn se trouve ainsi replong\u00e9 dans le petit chaperon rouge, version d\u00e9cupl\u00e9e question grandes dents !\nAlors pour le spectacle cet \u00e9ni\u00e8me opus vaut le d\u00e9placement et le coup d\u2019\u0153il d\u2019autant plus que l\u00e0 aussi, on a droit \u00e0 quelques tr\u00e8s gros clins d\u2019\u0153il que l\u2019on ne reverra pas de sit\u00f4t et au fond tant mieux !\nPar contre l\u2019histoire fleure bon la manipulation du spectateur qui d\u2019instinct a tout devin\u00e9, et a surtout bien compris qu\u2019en le menant par le bout de son nez, on va droit vers de nouvelles aventures, lorsqu\u2019on voit la d\u00e9cision prise en conclusion !\nIl n\u2019en reste pas moins que l\u2019on est tout content de trouver \u00e0 la sortie un univers bien tranquille et paisible, peut-\u00eatre juste avec la peur de voir son gentil petit york transform\u00e9 en monstre pr\u00e9historique en rentrant chez soi !",
+        "rating": 3
+      }
+    ],
+    "bestPressReview": [
+      {
+        "code": 40059554,
+        "creationDate": "2018-06-06T12:17:00Z",
+        "newsSource": {
+          "code": 82355,
+          "name": "Sud Ouest",
+          "href": "http:\/\/www.sudouest.fr\/"
+        },
+        "author": "Sophie Avon",
+        "body": "Si l\u2019ing\u00e9niosit\u00e9 du sc\u00e9nario d\u00e9place les enjeux en faisant des bestioles les victimes, et des hommes les pr\u00e9dateurs, elle modifie \u00e9galement le terrain de jeu, n\u2019ayant de cesse de r\u00e9duire l\u2019\u00e8re d\u2019activit\u00e9. (...) Pour le reste, le cin\u00e9aste catalan Juan Antonio Bayona donne un souffle existentiel au r\u00e9cit, conjuguant la beaut\u00e9 et l\u2019horreur, les r\u00e9miniscences enfantines, la m\u00e9lancolie de la disparition et l\u2019innocence d\u2019une fillette.",
+        "rating": 4
+      }
+    ],
+    "worstPressReview": [
+      {
+        "code": 40059468,
+        "creationDate": "2018-06-06T07:13:00Z",
+        "newsSource": {
+          "code": 82243,
+          "name": "Les Fiches du Cin\u00e9ma",
+          "href": "http:\/\/http:\/\/www.fichesducinema.com"
+        },
+        "author": "Marine Quinchon",
+        "body": "Le r\u00e9alisateur de \"L\u2019Orphelinat\" se frotte \u00e0 la franchise jurassique avec un bonheur mitig\u00e9. Si les effets sp\u00e9ciaux sont tr\u00e8s r\u00e9ussis, on d\u00e9plore un sc\u00e9nario trop attendu et surtout sans surprises. M\u00eame pas peur !",
+        "rating": 2
+      }
+    ]
+  }
+}

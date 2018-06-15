@@ -1,0 +1,153 @@
+{
+  "feed": {
+    "updated": "2018-06-13T16:28:35Z",
+    "page": 1,
+    "count": 10,
+    "totalResults": 5,
+    "theater": [
+      {
+        "code": "P0076",
+        "name": "Gaumont Montpellier Com\u00e9die",
+        "address": "Place de la Com\u00e9die",
+        "postalCode": "34000",
+        "city": "Montpellier",
+        "area": "Languedoc-Rousillon",
+        "cinemaChain": {
+          "code": 81002,
+          "$": "Les Cin\u00e9mas Gaumont Path\u00e9"
+        },
+        "screenCount": 8,
+        "geoloc": {
+          "lat": 43.6091,
+          "long": 3.88018
+        },
+        "picture": {
+          "path": "\/pictures\/214\/510\/21451050_123901308.jpg",
+          "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/214\/510\/21451050_123901308.jpg"
+        },
+        "hasPRMAccess": 1,
+        "openToExternalSales": 1,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/seance\/salle_gen_csalle=P0076.html"
+          }
+        ]
+      },
+      {
+        "code": "P0187",
+        "name": "Diagonal-Capitole",
+        "address": "5, rue de Verdun",
+        "postalCode": "34000",
+        "city": "Montpellier",
+        "area": "Languedoc-Rousillon",
+        "cinemaChain": {
+          "code": 81007,
+          "$": "Ind\u00e9pendant"
+        },
+        "screenCount": 6,
+        "geoloc": {
+          "lat": 43.60771,
+          "long": 3.88037
+        },
+        "picture": {
+          "path": "\/pictures\/212\/872\/21287223_152122099.jpg",
+          "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/212\/872\/21287223_152122099.jpg"
+        },
+        "hasPRMAccess": 1,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/seance\/salle_gen_csalle=P0187.html"
+          }
+        ]
+      },
+      {
+        "code": "P0702",
+        "name": "Gaumont Montpellier multiplexe",
+        "address": "235, Rue Georges M\u00e9lies",
+        "postalCode": "34000",
+        "city": "Montpellier",
+        "area": "Languedoc-Rousillon",
+        "cinemaChain": {
+          "code": 81002,
+          "$": "Les Cin\u00e9mas Gaumont Path\u00e9"
+        },
+        "screenCount": 17,
+        "geoloc": {
+          "lat": 43.60387,
+          "long": 3.91571
+        },
+        "picture": {
+          "path": "\/pictures\/213\/211\/21321194_151227932.jpg",
+          "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/213\/211\/21321194_151227932.jpg"
+        },
+        "hasPRMAccess": 1,
+        "openToExternalSales": 1,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/seance\/salle_gen_csalle=P0702.html"
+          }
+        ]
+      },
+      {
+        "code": "P7647",
+        "name": "Utopia",
+        "address": "5, av. du Docteur-Pezet",
+        "postalCode": "34090",
+        "city": "Montpellier",
+        "area": "Languedoc-Rousillon",
+        "cinemaChain": {
+          "code": 81007,
+          "$": "Ind\u00e9pendant"
+        },
+        "screenCount": 3,
+        "geoloc": {
+          "lat": 43.629,
+          "long": 3.86937
+        },
+        "picture": {
+          "path": "\/medias\/nmedia\/18\/65\/14\/86\/18833179.JPG",
+          "href": "http:\/\/fr.web.img3.acsta.net\/medias\/nmedia\/18\/65\/14\/86\/18833179.JPG"
+        },
+        "hasEvent": 1,
+        "hasPRMAccess": 1,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/seance\/salle_gen_csalle=P7647.html"
+          }
+        ]
+      },
+      {
+        "code": "W3408",
+        "name": "Cin\u00e9ma Nestor Burma",
+        "address": "2, rue Marcellin Albert",
+        "postalCode": "34080",
+        "city": "Montpellier",
+        "area": "Languedoc-Rousillon",
+        "cinemaChain": {
+          "code": 81007,
+          "$": "Ind\u00e9pendant"
+        },
+        "screenCount": 1,
+        "geoloc": {
+          "lat": 43.61429,
+          "long": 3.82868
+        },
+        "picture": {
+          "path": "\/pictures\/210\/782\/21078280_20140205173712886.jpg",
+          "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/210\/782\/21078280_20140205173712886.jpg"
+        },
+        "hasPRMAccess": 1,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/seance\/salle_gen_csalle=W3408.html"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2480 @@
+{
+  "feed": {
+    "updated": "2018-06-12T16:22:24Z",
+    "page": 1,
+    "count": 10,
+    "totalResults": 1,
+    "theaterShowtimes": [{
+      "place": {
+        "theater": {
+          "code": "P0702",
+          "name": "Gaumont Montpellier multiplexe",
+          "address": "235, Rue Georges M\u00e9lies",
+          "postalCode": "34000",
+          "city": "Montpellier",
+          "area": "Languedoc-Rousillon",
+          "picture": {
+            "path": "\/pictures\/213\/211\/21321194_151227932.jpg",
+            "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/213\/211\/21321194_151227932.jpg"
+          },
+          "cinemaChain": {
+            "code": 81002,
+            "$": "Les Cin\u00e9mas Gaumont Path\u00e9"
+          },
+          "hasPRMAccess": 1,
+          "openToExternalSales": 1,
+          "geoloc": {
+            "lat": 43.6038734,
+            "long": 3.915714
+          },
+          "link": [{
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/seance\/salle_gen_csalle=P0702.html"
+          }]
+        }
+      },
+      "movieShowtimes": [
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305219\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "true",
+          "onShow": {
+            "movie": {
+              "code": 228558,
+              "title": "Jurassic World: Fallen Kingdom",
+              "castingShort": {
+                "directors": "Juan Antonio Bayona",
+                "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+              },
+              "release": {
+                "releaseDate": "2018-06-06"
+              },
+              "runtime": 7680,
+              "genre": [
+                {
+                  "code": 13001,
+                  "$": "Aventure"
+                },
+                {
+                  "code": 13021,
+                  "$": "Science fiction"
+                }
+              ],
+              "movieCertificate": {
+                "certificate": {
+                  "code": 14035,
+                  "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                }
+              },
+              "poster": {
+                "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+              },
+              "trailer": {
+                "code": 19578026,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Jurassic World: Fallen Kingdom",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+              }],
+              "statistics": {
+                "pressRating": 3.32,
+                "pressReviewCount": 25,
+                "userRating": 3.62466884,
+                "userReviewCount": 309,
+                "userRatingCount": 2286,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110003,
+            "$": "3D"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du jeudi 7 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du vendredi 8 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du samedi 9 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du dimanche 10 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du lundi 11 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du mardi 12 juin 2018 : 15:00, 18:00, 20:45",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [
+              {
+              "code": 622091502,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305733\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "15:00"
+            },
+              {
+                "code": 622091503,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305734\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "18:00"
+              },
+              {
+                "code": 622091504,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305735\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "20:45"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305190\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "true",
+          "onShow": {
+            "movie": {
+              "code": 228558,
+              "title": "Jurassic World: Fallen Kingdom",
+              "castingShort": {
+                "directors": "Juan Antonio Bayona",
+                "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+              },
+              "release": {
+                "releaseDate": "2018-06-06"
+              },
+              "runtime": 7680,
+              "genre": [{
+                "code": 13001,
+                "$": "Aventure"
+              },
+                {
+                  "code": 13021,
+                  "$": "Science fiction"
+                }
+              ],
+              "movieCertificate": {
+                "certificate": {
+                  "code": 14035,
+                  "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                }
+              },
+              "poster": {
+                "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+              },
+              "trailer": {
+                "code": 19578026,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Jurassic World: Fallen Kingdom",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+              }],
+              "statistics": {
+                "pressRating": 3.32,
+                "pressReviewCount": 25,
+                "userRating": 3.62466884,
+                "userReviewCount": 309,
+                "userRatingCount": 2286,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du jeudi 7 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du vendredi 8 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du samedi 9 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du dimanche 10 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du lundi 11 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du mardi 12 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091348,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305704\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "10:30"
+            },
+              {
+                "code": 622091349,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305705\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:15"
+              },
+              {
+                "code": 622091350,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305706\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "16:00"
+              },
+              {
+                "code": 622091351,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305707\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "18:45"
+              },
+              {
+                "code": 622091352,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305708\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "21:30"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S300597\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "true",
+          "onShow": {
+            "movie": {
+              "code": 228558,
+              "title": "Jurassic World: Fallen Kingdom",
+              "castingShort": {
+                "directors": "Juan Antonio Bayona",
+                "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+              },
+              "release": {
+                "releaseDate": "2018-06-06"
+              },
+              "runtime": 7680,
+              "genre": [{
+                "code": 13001,
+                "$": "Aventure"
+              },
+                {
+                  "code": 13021,
+                  "$": "Science fiction"
+                }
+              ],
+              "movieCertificate": {
+                "certificate": {
+                  "code": 14035,
+                  "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                }
+              },
+              "poster": {
+                "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+              },
+              "trailer": {
+                "code": 19578026,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Jurassic World: Fallen Kingdom",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+              }],
+              "statistics": {
+                "pressRating": 3.32,
+                "pressReviewCount": 25,
+                "userRating": 3.62466884,
+                "userReviewCount": 309,
+                "userRatingCount": 2286,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110006,
+            "$": "IMAX 3D"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 11:00, 14:00, 16:45, 19:30, 22:15\r\nS\u00e9ances du jeudi 7 juin 2018 : 11:00, 14:00, 16:45, 22:15\r\nS\u00e9ances du vendredi 8 juin 2018 : 11:00, 14:00, 16:45, 19:30, 22:15\r\nS\u00e9ances du samedi 9 juin 2018 : 11:00, 14:00, 16:45, 19:30, 22:15\r\nS\u00e9ances du dimanche 10 juin 2018 : 11:00, 14:00, 16:45, 19:30, 22:15\r\nS\u00e9ances du lundi 11 juin 2018 : 11:00, 14:00, 16:45, 19:30, 22:15\r\nS\u00e9ances du mardi 12 juin 2018 : 11:00, 14:00, 16:45, 22:15",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091912,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S300627\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "11:00"
+            },
+              {
+                "code": 622091913,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S300628\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "14:00"
+              },
+              {
+                "code": 622091914,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305791\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "16:45"
+              },
+              {
+                "code": 622091915,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S300631\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "22:15"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S300605\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "true",
+          "onShow": {
+            "movie": {
+              "code": 228558,
+              "title": "Jurassic World: Fallen Kingdom",
+              "castingShort": {
+                "directors": "Juan Antonio Bayona",
+                "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+              },
+              "release": {
+                "releaseDate": "2018-06-06"
+              },
+              "runtime": 7680,
+              "genre": [{
+                "code": 13001,
+                "$": "Aventure"
+              },
+                {
+                  "code": 13021,
+                  "$": "Science fiction"
+                }
+              ],
+              "movieCertificate": {
+                "certificate": {
+                  "code": 14035,
+                  "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                }
+              },
+              "poster": {
+                "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+              },
+              "trailer": {
+                "code": 19578026,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Jurassic World: Fallen Kingdom",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+              }],
+              "statistics": {
+                "pressRating": 3.32,
+                "pressReviewCount": 25,
+                "userRating": 3.62466884,
+                "userReviewCount": 309,
+                "userRatingCount": 2286,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "true",
+            "code": 6002,
+            "lang": 6002,
+            "$": "Anglais"
+          },
+          "screenFormat": {
+            "code": 110006,
+            "$": "IMAX 3D"
+          },
+          "display": "S\u00e9ances du jeudi 7 juin 2018 : 19:30\r\nS\u00e9ances du mardi 12 juin 2018 : 19:30",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091882,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S300630\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "19:30"
+            }]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305792\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 218386,
+              "title": "Solo: A Star Wars Story",
+              "castingShort": {
+                "directors": "Ron Howard",
+                "actors": "Alden Ehrenreich, Woody Harrelson, Emilia Clarke, Donald Glover, Thandie Newton"
+              },
+              "release": {
+                "releaseDate": "2018-05-23"
+              },
+              "runtime": 8100,
+              "genre": [{
+                "code": 13021,
+                "$": "Science fiction"
+              },
+                {
+                  "code": 13012,
+                  "$": "Fantastique"
+                }
+              ],
+              "poster": {
+                "path": "\/pictures\/18\/04\/09\/10\/56\/4971105.jpg",
+                "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/04\/09\/10\/56\/4971105.jpg"
+              },
+              "trailer": {
+                "code": 19577854,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577854"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577854&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=218386.html\" target=\"_blank\">Solo: A Star Wars Story<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Solo: A Star Wars Story",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=218386.html"
+              }],
+              "statistics": {
+                "pressRating": 2.592592,
+                "pressReviewCount": 27,
+                "userRating": 3.68056226,
+                "userReviewCount": 566,
+                "userRatingCount": 3640,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110003,
+            "$": "3D"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 11:15, 13:30, 22:00\r\nS\u00e9ances du jeudi 7 juin 2018 : 11:15, 13:30, 22:00\r\nS\u00e9ances du vendredi 8 juin 2018 : 11:15, 13:30, 22:00\r\nS\u00e9ances du samedi 9 juin 2018 : 11:15, 13:30, 22:00\r\nS\u00e9ances du dimanche 10 juin 2018 : 11:15, 13:30, 22:00\r\nS\u00e9ances du lundi 11 juin 2018 : 11:15, 13:30, 21:45\r\nS\u00e9ances du mardi 12 juin 2018 : 11:15, 13:30, 22:00",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091483,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305798\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "11:15"
+            },
+              {
+                "code": 622091620,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305749\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:30"
+              },
+              {
+                "code": 622091621,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305752\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "22:00"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305234\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 218386,
+              "title": "Solo: A Star Wars Story",
+              "castingShort": {
+                "directors": "Ron Howard",
+                "actors": "Alden Ehrenreich, Woody Harrelson, Emilia Clarke, Donald Glover, Thandie Newton"
+              },
+              "release": {
+                "releaseDate": "2018-05-23"
+              },
+              "runtime": 8100,
+              "genre": [{
+                "code": 13021,
+                "$": "Science fiction"
+              },
+                {
+                  "code": 13012,
+                  "$": "Fantastique"
+                }
+              ],
+              "poster": {
+                "path": "\/pictures\/18\/04\/09\/10\/56\/4971105.jpg",
+                "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/04\/09\/10\/56\/4971105.jpg"
+              },
+              "trailer": {
+                "code": 19577854,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577854"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577854&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=218386.html\" target=\"_blank\">Solo: A Star Wars Story<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Solo: A Star Wars Story",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=218386.html"
+              }],
+              "statistics": {
+                "pressRating": 2.592592,
+                "pressReviewCount": 27,
+                "userRating": 3.68056226,
+                "userReviewCount": 566,
+                "userRatingCount": 3640,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 10:30, 16:30, 19:15\r\nS\u00e9ances du jeudi 7 juin 2018 : 10:30, 16:30, 19:15\r\nS\u00e9ances du vendredi 8 juin 2018 : 10:30, 16:30, 19:15\r\nS\u00e9ances du samedi 9 juin 2018 : 10:30, 16:30, 19:15\r\nS\u00e9ances du dimanche 10 juin 2018 : 10:30, 16:30, 19:15\r\nS\u00e9ances du lundi 11 juin 2018 : 10:30, 16:15, 19:00\r\nS\u00e9ances du mardi 12 juin 2018 : 10:30, 16:30, 19:15",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091605,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305748\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "10:30"
+            },
+              {
+                "code": 622091606,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305750\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "16:30"
+              },
+              {
+                "code": 622091607,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305751\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "19:15"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305197\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 255425,
+              "title": "En Guerre",
+              "castingShort": {
+                "directors": "St\u00e9phane Briz\u00e9",
+                "actors": "Vincent Lindon, M\u00e9lanie Rover, Jacques Borderie, David Rey, Olivier Lemaire (II)"
+              },
+              "release": {
+                "releaseDate": "2018-05-16"
+              },
+              "runtime": 6780,
+              "genre": [{
+                "code": 13008,
+                "$": "Drame"
+              }],
+              "poster": {
+                "path": "\/pictures\/18\/04\/20\/16\/37\/2795434.jpg",
+                "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/20\/16\/37\/2795434.jpg"
+              },
+              "trailer": {
+                "code": 19577936,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577936"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577936&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=255425.html\" target=\"_blank\">En Guerre<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "En Guerre",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=255425.html"
+              }],
+              "statistics": {
+                "pressRating": 3.875,
+                "pressReviewCount": 32,
+                "userRating": 4.05833626,
+                "userReviewCount": 170,
+                "userRatingCount": 904,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 16:30\r\nS\u00e9ances du jeudi 7 juin 2018 : 16:30\r\nS\u00e9ances du vendredi 8 juin 2018 : 11:15, 16:30\r\nS\u00e9ances du samedi 9 juin 2018 : 16:30\r\nS\u00e9ances du dimanche 10 juin 2018 : 16:30\r\nS\u00e9ances du lundi 11 juin 2018 : 16:30\r\nS\u00e9ances du mardi 12 juin 2018 : 11:15, 16:30",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091300,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305709\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "11:15"
+            },
+              {
+                "code": 622091301,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305711\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "16:30"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305228\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 237885,
+              "title": "L'Extraordinaire voyage du Fakir",
+              "castingShort": {
+                "directors": "Ken Scott",
+                "actors": "Dhanush, B\u00e9r\u00e9nice Bejo, Erin Moriarty, Barkhad Abdi, G\u00e9rard Jugnot"
+              },
+              "release": {
+                "releaseDate": "2018-05-30"
+              },
+              "runtime": 6000,
+              "genre": [{
+                "code": 13005,
+                "$": "Com\u00e9die"
+              },
+                {
+                  "code": 13001,
+                  "$": "Aventure"
+                }
+              ],
+              "poster": {
+                "path": "\/pictures\/18\/05\/11\/10\/08\/2875774.jpg",
+                "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/05\/11\/10\/08\/2875774.jpg"
+              },
+              "trailer": {
+                "code": 19577796,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577796"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577796&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=237885.html\" target=\"_blank\">L'Extraordinaire voyage du Fakir<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "L'Extraordinaire voyage du Fakir",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=237885.html"
+              }],
+              "statistics": {
+                "pressRating": 3.238095,
+                "pressReviewCount": 21,
+                "userRating": 4.0692234,
+                "userReviewCount": 98,
+                "userRatingCount": 518,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 10:45, 13:00, 15:15, 17:25, 19:30\r\nS\u00e9ances du jeudi 7 juin 2018 : 10:45, 13:00, 15:15, 17:25, 19:30\r\nS\u00e9ances du vendredi 8 juin 2018 : 10:45, 13:00, 15:15, 17:25, 19:30\r\nS\u00e9ances du samedi 9 juin 2018 : 10:45, 13:00, 15:15, 17:25, 19:30\r\nS\u00e9ances du dimanche 10 juin 2018 : 10:45, 13:00, 15:15, 17:25, 19:30\r\nS\u00e9ances du lundi 11 juin 2018 : 10:45, 13:00, 15:15, 17:25, 19:30\r\nS\u00e9ances du mardi 12 juin 2018 : 10:45, 13:00, 15:15, 17:25, 19:30",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091582,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305742\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "10:45"
+            },
+              {
+                "code": 622091583,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305743\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:00"
+              },
+              {
+                "code": 622091584,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305744\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "15:15"
+              },
+              {
+                "code": 622091585,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305745\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "17:25"
+              },
+              {
+                "code": 622091586,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305746\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "19:30"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305553\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 245006,
+              "title": "Deadpool 2",
+              "castingShort": {
+                "directors": "David Leitch",
+                "actors": "Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison, Zazie Beetz"
+              },
+              "release": {
+                "releaseDate": "2018-05-16"
+              },
+              "runtime": 7200,
+              "genre": [{
+                "code": 13025,
+                "$": "Action"
+              },
+                {
+                  "code": 13005,
+                  "$": "Com\u00e9die"
+                },
+                {
+                  "code": 13001,
+                  "$": "Aventure"
+                }
+              ],
+              "movieCertificate": {
+                "certificate": {
+                  "code": 14001,
+                  "$": "Interdit aux moins de 12 ans"
+                }
+              },
+              "poster": {
+                "path": "\/pictures\/18\/04\/06\/16\/26\/2317955.jpg",
+                "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/06\/16\/26\/2317955.jpg"
+              },
+              "trailer": {
+                "code": 19578032,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578032"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578032&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=245006.html\" target=\"_blank\">Deadpool 2<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Deadpool 2",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=245006.html"
+              }],
+              "statistics": {
+                "pressRating": 3.125,
+                "pressReviewCount": 16,
+                "userRating": 4.200157,
+                "userReviewCount": 377,
+                "userRatingCount": 4903,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 11:15, 14:15, 17:00, 19:45, 22:15\r\nS\u00e9ances du jeudi 7 juin 2018 : 11:15, 14:15, 17:00, 19:45, 22:15\r\nS\u00e9ances du vendredi 8 juin 2018 : 11:15, 14:15, 17:00, 19:45, 22:15\r\nS\u00e9ances du samedi 9 juin 2018 : 11:15, 14:15, 17:00, 19:45, 22:15\r\nS\u00e9ances du dimanche 10 juin 2018 : 10:45, 13:30, 17:30, 20:30, 22:15\r\nS\u00e9ances du lundi 11 juin 2018 : 11:15, 14:15, 17:00, 21:30\r\nS\u00e9ances du mardi 12 juin 2018 : 11:15, 14:15, 17:00, 19:45, 22:15",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091875,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305786\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "11:15"
+            },
+              {
+                "code": 622091876,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305787\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "14:15"
+              },
+              {
+                "code": 622091877,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305788\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "17:00"
+              },
+              {
+                "code": 622091878,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305789\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "19:45"
+              },
+              {
+                "code": 622091879,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305790\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "22:15"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305245\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 247834,
+              "title": "Mon Ket",
+              "castingShort": {
+                "directors": "Fran\u00e7ois Damiens",
+                "actors": "Fran\u00e7ois Damiens, Matteo Salamone, Tatiana Rojo, Christian Brahy, Serge Hutry"
+              },
+              "release": {
+                "releaseDate": "2018-05-30"
+              },
+              "runtime": 5340,
+              "genre": [{
+                "code": 13005,
+                "$": "Com\u00e9die"
+              }],
+              "poster": {
+                "path": "\/pictures\/18\/04\/26\/09\/34\/2185055.jpg",
+                "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/18\/04\/26\/09\/34\/2185055.jpg"
+              },
+              "trailer": {
+                "code": 19578458,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578458"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578458&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=247834.html\" target=\"_blank\">Mon Ket<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Mon Ket",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=247834.html"
+              }],
+              "statistics": {
+                "pressRating": 2.96,
+                "pressReviewCount": 25,
+                "userRating": 3.05462122,
+                "userReviewCount": 99,
+                "userRatingCount": 635,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 11:15, 13:30, 17:45, 19:45, 21:45\r\nS\u00e9ances du jeudi 7 juin 2018 : 11:15, 13:30, 17:45, 19:45, 21:45\r\nS\u00e9ances du vendredi 8 juin 2018 : 11:15, 13:30, 15:30, 17:45, 22:15\r\nS\u00e9ances du samedi 9 juin 2018 : 11:15, 13:30, 17:45, 19:45, 21:45\r\nS\u00e9ances du dimanche 10 juin 2018 : 11:15, 13:30, 17:45, 19:45, 21:45\r\nS\u00e9ances du lundi 11 juin 2018 : 11:15, 13:30, 18:00, 20:00\r\nS\u00e9ances du mardi 12 juin 2018 : 11:15, 13:30, 16:00, 17:45, 19:45, 21:45",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091693,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305759\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "11:15"
+            },
+              {
+                "code": 622091694,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305760\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:30"
+              },
+              {
+                "code": 622091720,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305767\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "16:00"
+              },
+              {
+                "code": 622091695,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305762\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "17:45"
+              },
+              {
+                "code": 622091696,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305763\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "19:45"
+              },
+              {
+                "code": 622091697,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305764\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "21:45"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305210\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 250678,
+              "title": "Je vais mieux",
+              "castingShort": {
+                "directors": "Jean-Pierre Am\u00e9ris",
+                "actors": "Eric Elmosnino, Ary Abittan, Judith El Zein, Alice Pol, Fran\u00e7ois Berl\u00e9and"
+              },
+              "release": {
+                "releaseDate": "2018-05-30"
+              },
+              "runtime": 5160,
+              "genre": [{
+                "code": 13005,
+                "$": "Com\u00e9die"
+              }],
+              "poster": {
+                "path": "\/pictures\/17\/11\/29\/14\/46\/4377725.jpg",
+                "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/17\/11\/29\/14\/46\/4377725.jpg"
+              },
+              "trailer": {
+                "code": 19575535,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19575535"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19575535&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=250678.html\" target=\"_blank\">Je vais mieux<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Je vais mieux",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=250678.html"
+              }],
+              "statistics": {
+                "pressRating": 2.666666,
+                "pressReviewCount": 21,
+                "userRating": 2.810065,
+                "userReviewCount": 51,
+                "userRatingCount": 234,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 13:30, 15:30, 20:30\r\nS\u00e9ances du jeudi 7 juin 2018 : 11:15, 13:30, 15:30, 20:30\r\nS\u00e9ances du vendredi 8 juin 2018 : 11:15, 13:30, 15:30, 20:30\r\nS\u00e9ances du samedi 9 juin 2018 : 13:30, 15:30, 20:30\r\nS\u00e9ances du dimanche 10 juin 2018 : 13:30, 15:30, 20:00\r\nS\u00e9ances du lundi 11 juin 2018 : 13:30, 15:30\r\nS\u00e9ances du mardi 12 juin 2018 : 11:15, 13:30, 15:30, 20:30",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091465,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305726\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "11:15"
+            },
+              {
+                "code": 622091466,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305727\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:30"
+              },
+              {
+                "code": 622091467,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305728\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "15:30"
+              },
+              {
+                "code": 622091413,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305724\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "20:30"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305209\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 258915,
+              "title": "Gueule d'ange",
+              "castingShort": {
+                "directors": "Vanessa Filho",
+                "actors": "Marion Cotillard, Ayline Aksoy-Etaix, Alban Lenoir, Am\u00e9lie Daure, St\u00e9phane Rideau"
+              },
+              "release": {
+                "releaseDate": "2018-05-23"
+              },
+              "runtime": 6480,
+              "genre": [{
+                "code": 13008,
+                "$": "Drame"
+              }],
+              "poster": {
+                "path": "\/pictures\/18\/04\/23\/15\/38\/3973207.jpg",
+                "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/23\/15\/38\/3973207.jpg"
+              },
+              "trailer": {
+                "code": 19578127,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578127"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578127&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=258915.html\" target=\"_blank\">Gueule d'ange<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Gueule d'ange",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=258915.html"
+              }],
+              "statistics": {
+                "pressRating": 3.047619,
+                "pressReviewCount": 21,
+                "userRating": 3.27795672,
+                "userReviewCount": 90,
+                "userRatingCount": 393,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 18:00\r\nS\u00e9ances du jeudi 7 juin 2018 : 13:00, 18:00\r\nS\u00e9ances du vendredi 8 juin 2018 : 18:00\r\nS\u00e9ances du samedi 9 juin 2018 : 13:15\r\nS\u00e9ances du dimanche 10 juin 2018 : 13:15\r\nS\u00e9ances du lundi 11 juin 2018 : 18:15\r\nS\u00e9ances du mardi 12 juin 2018 : 18:00",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091420,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305723\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "18:00"
+            }]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305389\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 258210,
+              "title": "Demi-s\u0153urs",
+              "castingShort": {
+                "directors": "Saphia Azzeddine, Fran\u00e7ois-R\u00e9gis Jeanne",
+                "actors": "Sabrina Ouazani, Alice David, Charlotte Gabris, Barbara Probst, Patrick Chesnais"
+              },
+              "release": {
+                "releaseDate": "2018-05-30"
+              },
+              "runtime": 6300,
+              "genre": [{
+                "code": 13005,
+                "$": "Com\u00e9die"
+              }],
+              "poster": {
+                "path": "\/pictures\/18\/05\/04\/09\/50\/1452171.jpg",
+                "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/05\/04\/09\/50\/1452171.jpg"
+              },
+              "trailer": {
+                "code": 19578162,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578162"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578162&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=258210.html\" target=\"_blank\">Demi-s\u0153urs<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Demi-s\u0153urs",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=258210.html"
+              }],
+              "statistics": {
+                "pressRating": 2.9,
+                "pressReviewCount": 10,
+                "userRating": 3.163259,
+                "userReviewCount": 60,
+                "userRatingCount": 363,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 10:45, 13:15, 15:30, 17:45, 20:00, 22:15\r\nS\u00e9ances du jeudi 7 juin 2018 : 13:15, 15:30, 17:45, 20:00, 22:15\r\nS\u00e9ances du vendredi 8 juin 2018 : 10:45, 13:15, 15:30, 17:45, 19:45, 22:00\r\nS\u00e9ances du samedi 9 juin 2018 : 10:45, 13:15, 15:30, 17:45, 20:00, 22:15\r\nS\u00e9ances du dimanche 10 juin 2018 : 10:45, 13:15, 15:30, 17:45, 20:00, 22:15\r\nS\u00e9ances du lundi 11 juin 2018 : 10:45, 13:15, 15:30, 17:45, 20:00, 22:15\r\nS\u00e9ances du mardi 12 juin 2018 : 10:45, 13:15, 15:30, 17:45, 20:00, 22:15",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091815,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305776\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "10:45"
+            },
+              {
+                "code": 622091816,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305777\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:15"
+              },
+              {
+                "code": 622091817,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305778\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "15:30"
+              },
+              {
+                "code": 622091818,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305779\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "17:45"
+              },
+              {
+                "code": 622091819,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305780\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "20:00"
+              },
+              {
+                "code": 622091820,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305781\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "22:15"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305196\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 258350,
+              "title": "Everybody knows",
+              "castingShort": {
+                "directors": "Asghar Farhadi",
+                "actors": "Pen\u00e9lope Cruz, Javier Bardem, Ricardo Dar\u00edn, Eduard Fern\u00e1ndez, B\u00e1rbara Lennie"
+              },
+              "release": {
+                "releaseDate": "2018-05-09"
+              },
+              "runtime": 7920,
+              "genre": [{
+                "code": 13023,
+                "$": "Thriller"
+              },
+                {
+                  "code": 13008,
+                  "$": "Drame"
+                }
+              ],
+              "poster": {
+                "path": "\/pictures\/18\/04\/13\/13\/28\/5638891.jpg",
+                "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/04\/13\/13\/28\/5638891.jpg"
+              },
+              "trailer": {
+                "code": 19577810,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577810"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577810&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=258350.html\" target=\"_blank\">Everybody knows<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Everybody knows",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=258350.html"
+              }],
+              "statistics": {
+                "pressRating": 3.222222,
+                "pressReviewCount": 27,
+                "userRating": 3.63566041,
+                "userReviewCount": 263,
+                "userRatingCount": 1895,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 13:45, 19:00\r\nS\u00e9ances du jeudi 7 juin 2018 : 11:00, 13:45, 19:00\r\nS\u00e9ances du vendredi 8 juin 2018 : 13:45, 19:00\r\nS\u00e9ances du samedi 9 juin 2018 : 13:45, 19:00\r\nS\u00e9ances du dimanche 10 juin 2018 : 13:45, 19:00\r\nS\u00e9ances du lundi 11 juin 2018 : 11:00, 13:45, 19:00\r\nS\u00e9ances du mardi 12 juin 2018 : 13:45, 19:00",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091316,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305710\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "13:45"
+            },
+              {
+                "code": 622091317,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305712\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "19:00"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305200\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "true",
+          "onShow": {
+            "movie": {
+              "code": 256068,
+              "title": "Le Book Club",
+              "castingShort": {
+                "directors": "Bill Holderman",
+                "actors": "Diane Keaton, Jane Fonda, Candice Bergen, Mary Steenburgen, Andy Garcia"
+              },
+              "release": {
+                "releaseDate": "2018-06-06"
+              },
+              "runtime": 5820,
+              "genre": [{
+                "code": 13005,
+                "$": "Com\u00e9die"
+              }],
+              "poster": {
+                "path": "\/pictures\/18\/03\/28\/08\/42\/4199411.jpg",
+                "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/03\/28\/08\/42\/4199411.jpg"
+              },
+              "trailer": {
+                "code": 19577358,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577358"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577358&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=256068.html\" target=\"_blank\">Le Book Club<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Le Book Club",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=256068.html"
+              }],
+              "statistics": {
+                "pressRating": 2.727272,
+                "pressReviewCount": 11,
+                "userRating": 3.53301525,
+                "userReviewCount": 54,
+                "userRatingCount": 154,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 11:00, 13:15, 15:30, 20:15, 21:45\r\nS\u00e9ances du jeudi 7 juin 2018 : 11:00, 13:15, 15:30, 20:15, 21:45\r\nS\u00e9ances du vendredi 8 juin 2018 : 11:00, 13:15, 15:30, 21:45\r\nS\u00e9ances du samedi 9 juin 2018 : 11:00, 13:15, 15:30, 20:15, 21:45\r\nS\u00e9ances du dimanche 10 juin 2018 : 11:00, 13:15, 15:30, 20:15, 21:45\r\nS\u00e9ances du lundi 11 juin 2018 : 11:00, 13:15, 15:30, 20:15, 21:45\r\nS\u00e9ances du mardi 12 juin 2018 : 11:00, 13:15, 15:30, 21:45",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091391,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305714\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "11:00"
+            },
+              {
+                "code": 622091392,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305715\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:15"
+              },
+              {
+                "code": 622091393,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305716\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "15:30"
+              },
+              {
+                "code": 622091394,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305719\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "21:45"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305427\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "true",
+          "onShow": {
+            "movie": {
+              "code": 256068,
+              "title": "Le Book Club",
+              "castingShort": {
+                "directors": "Bill Holderman",
+                "actors": "Diane Keaton, Jane Fonda, Candice Bergen, Mary Steenburgen, Andy Garcia"
+              },
+              "release": {
+                "releaseDate": "2018-06-06"
+              },
+              "runtime": 5820,
+              "genre": [{
+                "code": 13005,
+                "$": "Com\u00e9die"
+              }],
+              "poster": {
+                "path": "\/pictures\/18\/03\/28\/08\/42\/4199411.jpg",
+                "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/03\/28\/08\/42\/4199411.jpg"
+              },
+              "trailer": {
+                "code": 19577358,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577358"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577358&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=256068.html\" target=\"_blank\">Le Book Club<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Le Book Club",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=256068.html"
+              }],
+              "statistics": {
+                "pressRating": 2.727272,
+                "pressReviewCount": 11,
+                "userRating": 3.53301525,
+                "userReviewCount": 54,
+                "userRatingCount": 154,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "true",
+            "code": 6002,
+            "lang": 6002,
+            "$": "Anglais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du vendredi 8 juin 2018 : 20:00\r\nS\u00e9ances du mardi 12 juin 2018 : 20:15",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091736,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305769\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "20:15"
+            }]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305677\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "true",
+          "onShow": {
+            "movie": {
+              "code": 256186,
+              "title": "Champions",
+              "castingShort": {
+                "directors": "Javier Fesser",
+                "actors": "Javier Guti\u00e9rrez, Athenea Mata, Daniel Freire, Luisa Gavasa, Jes\u00fas Lago"
+              },
+              "release": {
+                "releaseDate": "2018-06-06"
+              },
+              "runtime": 7080,
+              "genre": [{
+                "code": 13008,
+                "$": "Drame"
+              },
+                {
+                  "code": 13005,
+                  "$": "Com\u00e9die"
+                }
+              ],
+              "poster": {
+                "path": "\/pictures\/18\/04\/30\/10\/20\/5882007.jpg",
+                "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/04\/30\/10\/20\/5882007.jpg"
+              },
+              "trailer": {
+                "code": 19578359,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578359"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578359&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=256186.html\" target=\"_blank\">Champions<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Champions",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=256186.html"
+              }],
+              "statistics": {
+                "pressRating": 3.25,
+                "pressReviewCount": 12,
+                "userRating": 3.84865952,
+                "userReviewCount": 41,
+                "userRatingCount": 176,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 10:45, 14:00, 16:30, 19:00, 21:30\r\nS\u00e9ances du jeudi 7 juin 2018 : 10:45, 14:00, 16:30, 21:30\r\nS\u00e9ances du vendredi 8 juin 2018 : 10:45, 14:00, 16:30, 19:00, 21:30\r\nS\u00e9ances du samedi 9 juin 2018 : 10:45, 14:00, 16:30, 19:00, 21:30\r\nS\u00e9ances du dimanche 10 juin 2018 : 10:45, 14:00, 16:30, 19:00, 21:30\r\nS\u00e9ances du lundi 11 juin 2018 : 10:45, 14:00, 16:30, 22:00\r\nS\u00e9ances du mardi 12 juin 2018 : 10:45, 14:00, 16:30, 19:00, 21:30",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091778,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305771\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "10:45"
+            },
+              {
+                "code": 622091779,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305772\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "14:00"
+              },
+              {
+                "code": 622091780,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305773\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "16:30"
+              },
+              {
+                "code": 622091781,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305774\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "19:00"
+              },
+              {
+                "code": 622091782,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305775\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "21:30"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305222\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "true",
+          "onShow": {
+            "movie": {
+              "code": 255544,
+              "title": "Volontaire",
+              "castingShort": {
+                "directors": "H\u00e9l\u00e8ne Filli\u00e8res",
+                "actors": "Lambert Wilson, Diane Rouxel, Corentin Fila, Alex Descas, Jonathan Couzini\u00e9"
+              },
+              "release": {
+                "releaseDate": "2018-06-06"
+              },
+              "runtime": 6060,
+              "genre": [{
+                "code": 13002,
+                "$": "Com\u00e9die dramatique"
+              }],
+              "poster": {
+                "path": "\/pictures\/18\/04\/25\/17\/39\/1119675.jpg",
+                "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/04\/25\/17\/39\/1119675.jpg"
+              },
+              "trailer": {
+                "code": 19578141,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578141"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578141&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=255544.html\" target=\"_blank\">Volontaire<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Volontaire",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=255544.html"
+              }],
+              "statistics": {
+                "pressRating": 2.666666,
+                "pressReviewCount": 18,
+                "userRating": 3.00236583,
+                "userReviewCount": 57,
+                "userRatingCount": 179,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 10:45, 13:00, 15:15, 17:30, 19:45, 22:00\r\nS\u00e9ances du jeudi 7 juin 2018 : 10:45, 13:00, 15:15, 17:30, 19:45, 22:00\r\nS\u00e9ances du vendredi 8 juin 2018 : 10:45, 13:00, 17:30, 19:45, 22:00\r\nS\u00e9ances du samedi 9 juin 2018 : 13:00, 15:15, 17:30, 19:45, 22:00\r\nS\u00e9ances du dimanche 10 juin 2018 : 10:45, 13:00, 15:15, 17:30, 19:45, 22:00\r\nS\u00e9ances du lundi 11 juin 2018 : 10:45, 13:00, 15:15, 17:30, 19:45, 22:00\r\nS\u00e9ances du mardi 12 juin 2018 : 10:45, 13:00, 15:15, 17:30, 19:45, 22:00",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091539,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305736\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "10:45"
+            },
+              {
+                "code": 622091540,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305737\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:00"
+              },
+              {
+                "code": 622091541,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305738\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "15:15"
+              },
+              {
+                "code": 622091542,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305739\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "17:30"
+              },
+              {
+                "code": 622091543,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305740\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "19:45"
+              },
+              {
+                "code": 622091544,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305741\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "22:00"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305216\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 257033,
+              "title": "Monsieur Je-sais-tout",
+              "castingShort": {
+                "directors": "Fran\u00e7ois Pr\u00e9v\u00f4t-Leygonie, Stephan Archinard",
+                "actors": "Arnaud Ducret, Max Baissette de Malglaive, Alice David, Caroline Silhol, F\u00e9odor Atkine"
+              },
+              "release": {
+                "releaseDate": "2018-05-09"
+              },
+              "runtime": 5940,
+              "genre": [{
+                "code": 13002,
+                "$": "Com\u00e9die dramatique"
+              }],
+              "poster": {
+                "path": "\/pictures\/18\/03\/21\/17\/41\/1068458.jpg",
+                "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/03\/21\/17\/41\/1068458.jpg"
+              },
+              "trailer": {
+                "code": 19577528,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577528"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577528&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=257033.html\" target=\"_blank\">Monsieur Je-sais-tout<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Monsieur Je-sais-tout",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=257033.html"
+              }],
+              "statistics": {
+                "pressRating": 3.375,
+                "pressReviewCount": 8,
+                "userRating": 4.13097048,
+                "userReviewCount": 151,
+                "userRatingCount": 955,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 15:30, 20:00\r\nS\u00e9ances du jeudi 7 juin 2018 : 15:30, 20:00\r\nS\u00e9ances du vendredi 8 juin 2018 : 10:45, 13:00, 15:30\r\nS\u00e9ances du samedi 9 juin 2018 : 15:30, 20:00\r\nS\u00e9ances du dimanche 10 juin 2018 : 15:30, 20:00\r\nS\u00e9ances du lundi 11 juin 2018 : 11:00, 15:30, 20:00\r\nS\u00e9ances du mardi 12 juin 2018 : 11:15, 15:30, 20:00",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091744,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305765\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "11:15"
+            },
+              {
+                "code": 622091705,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305761\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "15:30"
+              },
+              {
+                "code": 622091474,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305730\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "20:00"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305638\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 218265,
+              "title": "Avengers: Infinity War",
+              "castingShort": {
+                "directors": "Joe Russo, Anthony Russo",
+                "actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson"
+              },
+              "release": {
+                "releaseDate": "2018-04-25"
+              },
+              "runtime": 9360,
+              "genre": [{
+                "code": 13001,
+                "$": "Aventure"
+              },
+                {
+                  "code": 13025,
+                  "$": "Action"
+                }
+              ],
+              "poster": {
+                "path": "\/pictures\/18\/03\/16\/14\/42\/0611719.jpg",
+                "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/03\/16\/14\/42\/0611719.jpg"
+              },
+              "trailer": {
+                "code": 19577543,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577543"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577543&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=218265.html\" target=\"_blank\">Avengers: Infinity War<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Avengers: Infinity War",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=218265.html"
+              }],
+              "statistics": {
+                "pressRating": 3.428571,
+                "pressReviewCount": 21,
+                "userRating": 4.52394,
+                "userReviewCount": 1124,
+                "userRatingCount": 11010,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 10:30, 13:45, 20:00\r\nS\u00e9ances du jeudi 7 juin 2018 : 10:30, 13:45, 20:00\r\nS\u00e9ances du vendredi 8 juin 2018 : 10:30, 13:30, 20:00\r\nS\u00e9ances du samedi 9 juin 2018 : 10:30, 13:45, 20:00\r\nS\u00e9ances du dimanche 10 juin 2018 : 10:30, 13:45, 20:15\r\nS\u00e9ances du lundi 11 juin 2018 : 10:30, 13:45, 20:45\r\nS\u00e9ances du mardi 12 juin 2018 : 10:30, 13:45, 20:00",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091837,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305782\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "10:30"
+            },
+              {
+                "code": 622091838,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305783\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:45"
+              },
+              {
+                "code": 622091839,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305785\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "20:00"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305233\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 218265,
+              "title": "Avengers: Infinity War",
+              "castingShort": {
+                "directors": "Joe Russo, Anthony Russo",
+                "actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson"
+              },
+              "release": {
+                "releaseDate": "2018-04-25"
+              },
+              "runtime": 9360,
+              "genre": [{
+                "code": 13001,
+                "$": "Aventure"
+              },
+                {
+                  "code": 13025,
+                  "$": "Action"
+                }
+              ],
+              "poster": {
+                "path": "\/pictures\/18\/03\/16\/14\/42\/0611719.jpg",
+                "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/03\/16\/14\/42\/0611719.jpg"
+              },
+              "trailer": {
+                "code": 19577543,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577543"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577543&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=218265.html\" target=\"_blank\">Avengers: Infinity War<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Avengers: Infinity War",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=218265.html"
+              }],
+              "statistics": {
+                "pressRating": 3.428571,
+                "pressReviewCount": 21,
+                "userRating": 4.52394,
+                "userReviewCount": 1124,
+                "userRatingCount": 11010,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110003,
+            "$": "3D"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 16:45, 21:45\r\nS\u00e9ances du jeudi 7 juin 2018 : 16:45, 21:45\r\nS\u00e9ances du vendredi 8 juin 2018 : 16:30, 21:45\r\nS\u00e9ances du samedi 9 juin 2018 : 16:45, 21:45\r\nS\u00e9ances du dimanche 10 juin 2018 : 16:45, 21:45\r\nS\u00e9ances du lundi 11 juin 2018 : 16:45, 21:45\r\nS\u00e9ances du mardi 12 juin 2018 : 16:45, 21:45",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091846,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305784\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "16:45"
+            },
+              {
+                "code": 622091551,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305747\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "21:45"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305239\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 239593,
+              "title": "Op\u00e9ration Beyrouth",
+              "castingShort": {
+                "directors": "Brad Anderson",
+                "actors": "Jon Hamm, Rosamund Pike, Dean Norris, Mark Pellegrino, Shea Whigham"
+              },
+              "release": {
+                "releaseDate": "2018-05-30"
+              },
+              "runtime": 6540,
+              "genre": [{
+                "code": 13023,
+                "$": "Thriller"
+              },
+                {
+                  "code": 13025,
+                  "$": "Action"
+                }
+              ],
+              "poster": {
+                "path": "\/pictures\/18\/04\/12\/11\/13\/0193568.jpg",
+                "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/12\/11\/13\/0193568.jpg"
+              },
+              "trailer": {
+                "code": 19578193,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578193"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578193&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=239593.html\" target=\"_blank\">Op\u00e9ration Beyrouth<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Op\u00e9ration Beyrouth",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=239593.html"
+              }],
+              "statistics": {
+                "pressRating": 2.9,
+                "pressReviewCount": 20,
+                "userRating": 3.17377138,
+                "userReviewCount": 46,
+                "userRatingCount": 306,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 10:30, 13:00, 15:30, 17:50, 20:10, 22:30\r\nS\u00e9ances du jeudi 7 juin 2018 : 10:30, 13:00, 15:30, 17:50, 20:10, 22:30\r\nS\u00e9ances du vendredi 8 juin 2018 : 10:30, 13:00, 15:30, 17:50, 20:10, 22:30\r\nS\u00e9ances du samedi 9 juin 2018 : 10:30, 13:00, 15:30, 17:50, 20:10, 22:30\r\nS\u00e9ances du dimanche 10 juin 2018 : 10:30, 13:00, 15:30, 17:50, 20:10, 22:30\r\nS\u00e9ances du lundi 11 juin 2018 : 10:30, 13:00, 15:30, 17:50, 20:10, 22:30\r\nS\u00e9ances du mardi 12 juin 2018 : 10:30, 13:00, 15:30, 17:50, 20:10, 22:30",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091659,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305753\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "10:30"
+            },
+              {
+                "code": 622091660,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305754\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:00"
+              },
+              {
+                "code": 622091661,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305755\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "15:30"
+              },
+              {
+                "code": 622091662,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305756\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "17:50"
+              },
+              {
+                "code": 622091663,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305757\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "20:10"
+              },
+              {
+                "code": 622091664,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305758\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "22:30"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305254\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 254690,
+              "title": "Action ou v\u00e9rit\u00e9",
+              "castingShort": {
+                "directors": "Jeff Wadlow",
+                "actors": "Lucy Hale, Tyler Posey, Violett Beane, Hayden Szeto, Landon Liboiron"
+              },
+              "release": {
+                "releaseDate": "2018-05-02"
+              },
+              "runtime": 6000,
+              "genre": [{
+                "code": 13009,
+                "$": "Epouvante-horreur"
+              },
+                {
+                  "code": 13023,
+                  "$": "Thriller"
+                }
+              ],
+              "movieCertificate": {
+                "certificate": {
+                  "code": 14001,
+                  "$": "Interdit aux moins de 12 ans"
+                }
+              },
+              "poster": {
+                "path": "\/pictures\/18\/04\/17\/09\/04\/4935346.jpg",
+                "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/18\/04\/17\/09\/04\/4935346.jpg"
+              },
+              "trailer": {
+                "code": 19576167,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19576167"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19576167&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=254690.html\" target=\"_blank\">Action ou v\u00e9rit\u00e9<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Action ou v\u00e9rit\u00e9",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=254690.html"
+              }],
+              "statistics": {
+                "pressRating": 2,
+                "pressReviewCount": 12,
+                "userRating": 2.628386,
+                "userReviewCount": 96,
+                "userRatingCount": 681,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 18:00, 22:30\r\nS\u00e9ances du jeudi 7 juin 2018 : 10:45, 18:00, 22:30\r\nS\u00e9ances du samedi 9 juin 2018 : 18:00, 22:30\r\nS\u00e9ances du dimanche 10 juin 2018 : 18:00, 22:30\r\nS\u00e9ances du lundi 11 juin 2018 : 18:00, 22:30\r\nS\u00e9ances du mardi 12 juin 2018 : 13:45, 18:00, 22:30",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091732,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305766\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "13:45"
+            },
+              {
+                "code": 622091733,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305768\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "18:00"
+              },
+              {
+                "code": 622091734,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305770\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "22:30"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305211\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 250627,
+              "title": "Taxi 5",
+              "castingShort": {
+                "directors": "Franck Gastambide",
+                "actors": "Franck Gastambide, Malik Bentalha, Bernard Farcy, Ramzy Bedia, Salvatore Esposito"
+              },
+              "release": {
+                "releaseDate": "2018-04-11"
+              },
+              "runtime": 6120,
+              "genre": [{
+                "code": 13025,
+                "$": "Action"
+              },
+                {
+                  "code": 13005,
+                  "$": "Com\u00e9die"
+                },
+                {
+                  "code": 13018,
+                  "$": "Policier"
+                }
+              ],
+              "poster": {
+                "path": "\/pictures\/18\/03\/09\/12\/16\/2548759.jpg",
+                "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/03\/09\/12\/16\/2548759.jpg"
+              },
+              "trailer": {
+                "code": 19577512,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577512"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577512&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=250627.html\" target=\"_blank\">Taxi 5<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Taxi 5",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=250627.html"
+              }],
+              "statistics": {
+                "pressRating": 2.125,
+                "pressReviewCount": 16,
+                "userRating": 2.53001618,
+                "userReviewCount": 614,
+                "userRatingCount": 3036,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 17:30, 22:30\r\nS\u00e9ances du jeudi 7 juin 2018 : 17:30, 22:30\r\nS\u00e9ances du vendredi 8 juin 2018 : 17:30, 22:30\r\nS\u00e9ances du samedi 9 juin 2018 : 17:30, 22:30\r\nS\u00e9ances du lundi 11 juin 2018 : 17:30\r\nS\u00e9ances du mardi 12 juin 2018 : 17:30, 22:30",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091450,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305729\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "17:30"
+            },
+              {
+                "code": 622091408,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305725\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "22:30"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305208\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 236733,
+              "title": "Rampage - Hors de contr\u00f4le",
+              "castingShort": {
+                "directors": "Brad Peyton",
+                "actors": "Dwayne Johnson, Naomie Harris, Malin \u00c5kerman, Jake Lacy, Joe Manganiello"
+              },
+              "release": {
+                "releaseDate": "2018-05-02"
+              },
+              "runtime": 6480,
+              "genre": [{
+                "code": 13001,
+                "$": "Aventure"
+              },
+                {
+                  "code": 13025,
+                  "$": "Action"
+                }
+              ],
+              "movieCertificate": {
+                "certificate": {
+                  "code": 14035,
+                  "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                }
+              },
+              "poster": {
+                "path": "\/pictures\/18\/03\/27\/09\/34\/4182383.jpg",
+                "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/03\/27\/09\/34\/4182383.jpg"
+              },
+              "trailer": {
+                "code": 19578041,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578041"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578041&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=236733.html\" target=\"_blank\">Rampage - Hors de contr\u00f4le<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Rampage - Hors de contr\u00f4le",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=236733.html"
+              }],
+              "statistics": {
+                "pressRating": 2.333333,
+                "pressReviewCount": 18,
+                "userRating": 3.49206066,
+                "userReviewCount": 179,
+                "userRatingCount": 1518,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 15:45\r\nS\u00e9ances du jeudi 7 juin 2018 : 15:45\r\nS\u00e9ances du vendredi 8 juin 2018 : 15:45\r\nS\u00e9ances du samedi 9 juin 2018 : 15:45\r\nS\u00e9ances du dimanche 10 juin 2018 : 15:45\r\nS\u00e9ances du lundi 11 juin 2018 : 15:45\r\nS\u00e9ances du mardi 12 juin 2018 : 15:45",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091402,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305722\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "15:45"
+            }]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305206\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 261610,
+              "title": "L'Homme dauphin, sur les traces de Jacques Mayol",
+              "castingShort": {
+                "directors": "Lefteris Charitos",
+                "actors": "Jean-Marc Barr"
+              },
+              "release": {
+                "releaseDate": "2018-05-30"
+              },
+              "runtime": 4740,
+              "genre": [{
+                "code": 13007,
+                "$": "Documentaire"
+              },
+                {
+                  "code": 13027,
+                  "$": "Biopic"
+                }
+              ],
+              "poster": {
+                "path": "\/pictures\/18\/05\/29\/12\/03\/3811245.jpg",
+                "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/05\/29\/12\/03\/3811245.jpg"
+              },
+              "trailer": {
+                "code": 19577911,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577911"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577911&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=261610.html\" target=\"_blank\">L'Homme dauphin, sur les traces de Jacques Mayol<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "L'Homme dauphin, sur les traces de Jacques Mayol",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=261610.html"
+              }],
+              "statistics": {
+                "pressRating": 3.111111,
+                "pressReviewCount": 9,
+                "userRating": 4.102,
+                "userReviewCount": 13,
+                "userRatingCount": 70,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 10:45, 13:15\r\nS\u00e9ances du jeudi 7 juin 2018 : 10:45, 13:15, 15:30\r\nS\u00e9ances du vendredi 8 juin 2018 : 10:45, 13:15\r\nS\u00e9ances du samedi 9 juin 2018 : 10:45, 18:00\r\nS\u00e9ances du dimanche 10 juin 2018 : 10:45, 18:00\r\nS\u00e9ances du lundi 11 juin 2018 : 10:45, 13:15\r\nS\u00e9ances du mardi 12 juin 2018 : 10:45, 13:15",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091433,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305720\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "10:45"
+            },
+              {
+                "code": 622091434,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305721\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "13:15"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305217\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 238860,
+              "title": "Mutafukaz",
+              "castingShort": {
+                "directors": "Shoujirou Nishimi, Guillaume \"Run\" Renard",
+                "actors": "Orelsan, Gringe, Redouanne Harjane, F\u00e9odor Atkine, Julien Kramer"
+              },
+              "release": {
+                "releaseDate": "2018-05-23"
+              },
+              "runtime": 5580,
+              "genre": [{
+                "code": 13026,
+                "$": "Animation"
+              }],
+              "movieCertificate": {
+                "certificate": {
+                  "code": 14001,
+                  "$": "Interdit aux moins de 12 ans"
+                }
+              },
+              "poster": {
+                "path": "\/pictures\/18\/03\/28\/17\/00\/5771427.jpg",
+                "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/18\/03\/28\/17\/00\/5771427.jpg"
+              },
+              "trailer": {
+                "code": 19578330,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19578330"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578330&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=238860.html\" target=\"_blank\">Mutafukaz<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Mutafukaz",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=238860.html"
+              }],
+              "statistics": {
+                "pressRating": 3.285714,
+                "pressReviewCount": 21,
+                "userRating": 3.9973948,
+                "userReviewCount": 30,
+                "userRatingCount": 282,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 22:15\r\nS\u00e9ances du jeudi 7 juin 2018 : 22:15\r\nS\u00e9ances du samedi 9 juin 2018 : 22:15\r\nS\u00e9ances du dimanche 10 juin 2018 : 22:15\r\nS\u00e9ances du lundi 11 juin 2018 : 22:15\r\nS\u00e9ances du mardi 12 juin 2018 : 22:15",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091443,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305731\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "22:15"
+            }]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305203\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 255741,
+              "title": "Largu\u00e9es",
+              "castingShort": {
+                "directors": "Elo\u00efse Lang",
+                "actors": "Miou-Miou, Camille Cottin, Camille Chamoux, Johan Heldenbergh, Olivia C\u00f4te"
+              },
+              "release": {
+                "releaseDate": "2018-04-18"
+              },
+              "runtime": 5520,
+              "genre": [{
+                "code": 13005,
+                "$": "Com\u00e9die"
+              }],
+              "poster": {
+                "path": "\/pictures\/18\/01\/30\/16\/48\/0392226.jpg",
+                "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/18\/01\/30\/16\/48\/0392226.jpg"
+              },
+              "trailer": {
+                "code": 19577321,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19577321"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19577321&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=255741.html\" target=\"_blank\">Largu\u00e9es<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Largu\u00e9es",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=255741.html"
+              }],
+              "statistics": {
+                "pressRating": 3.190476,
+                "pressReviewCount": 21,
+                "userRating": 3.79445434,
+                "userReviewCount": 245,
+                "userRatingCount": 1854,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 17:45, 19:45\r\nS\u00e9ances du jeudi 7 juin 2018 : 17:45, 19:45\r\nS\u00e9ances du vendredi 8 juin 2018 : 17:45, 19:45\r\nS\u00e9ances du samedi 9 juin 2018 : 17:45, 19:45\r\nS\u00e9ances du dimanche 10 juin 2018 : 17:45, 19:45\r\nS\u00e9ances du lundi 11 juin 2018 : 17:45, 19:45\r\nS\u00e9ances du mardi 12 juin 2018 : 17:45, 19:45",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091365,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305717\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "17:45"
+            },
+              {
+                "code": 622091366,
+                "p": 0,
+                "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305718\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                "$": "19:45"
+              }
+            ]
+          }]
+        },
+        {
+          "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305199\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+          "preview": "false",
+          "releaseWeek": "false",
+          "onShow": {
+            "movie": {
+              "code": 223313,
+              "title": "Red Sparrow",
+              "castingShort": {
+                "directors": "Francis Lawrence",
+                "actors": "Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts, Charlotte Rampling, Mary-Louise Parker"
+              },
+              "release": {
+                "releaseDate": "2018-04-04"
+              },
+              "runtime": 8460,
+              "genre": [{
+                "code": 13023,
+                "$": "Thriller"
+              },
+                {
+                  "code": 13022,
+                  "$": "Espionnage"
+                }
+              ],
+              "movieCertificate": {
+                "certificate": {
+                  "code": 14044,
+                  "$": "Interdit aux moins de 12 ans avec avertissement"
+                }
+              },
+              "poster": {
+                "path": "\/pictures\/18\/03\/02\/16\/55\/5441680.jpg",
+                "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/03\/02\/16\/55\/5441680.jpg"
+              },
+              "trailer": {
+                "code": 19576188,
+                "href": "http:\/\/www.allocine.fr\/blogvision\/19576188"
+              },
+              "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19576188&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=223313.html\" target=\"_blank\">Red Sparrow<\/a><\/div>",
+              "link": [{
+                "rel": "aco:web",
+                "name": "Red Sparrow",
+                "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=223313.html"
+              }],
+              "statistics": {
+                "pressRating": 2.818181,
+                "pressReviewCount": 22,
+                "userRating": 3.70414,
+                "userReviewCount": 366,
+                "userRatingCount": 3606,
+                "editorialRatingCount": 0
+              }
+            }
+          },
+          "version": {
+            "original": "false",
+            "code": 6001,
+            "lang": 6001,
+            "$": "Fran\u00e7ais"
+          },
+          "screenFormat": {
+            "code": 110002,
+            "$": "Num\u00e9rique"
+          },
+          "display": "S\u00e9ances du mercredi 6 juin 2018 : 21:45\r\nS\u00e9ances du jeudi 7 juin 2018 : 21:45\r\nS\u00e9ances du vendredi 8 juin 2018 : 21:45\r\nS\u00e9ances du samedi 9 juin 2018 : 21:45\r\nS\u00e9ances du dimanche 10 juin 2018 : 21:45\r\nS\u00e9ances du lundi 11 juin 2018 : 21:45\r\nS\u00e9ances du mardi 12 juin 2018 : 21:45",
+          "scr": [{
+            "d": "2018-06-12",
+            "t": [{
+              "code": 622091292,
+              "p": 0,
+              "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305713\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+              "$": "21:45"
+            }]
+          }]
+        }
+      ]
+    }]
+  }
+}
