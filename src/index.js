@@ -9,7 +9,7 @@ import showtimelist from './data/showtimelist';
 
 import App from './App';
 import configureStore from './store/configureStore';
-import {addCinema} from "./actions/cinemas";
+import {addCinemas} from "./actions/cinemas";
 import {addMovies} from "./actions/movies";
 
 import registerServiceWorker from './registerServiceWorker';
@@ -17,9 +17,12 @@ import registerServiceWorker from './registerServiceWorker';
 const store = configureStore();
 
 // Parse theaterlist API results
+let cinemas = [];
 for(let cinema of theaterlist.feed.theater){
-    store.dispatch(addCinema({...cinema}));
+    cinemas.push(cinema);
+    // store.dispatch(addCinema({...cinema}));
 }
+store.dispatch(addCinemas(cinemas));
 
 // Parse showtimelist API results
 let movies = [];

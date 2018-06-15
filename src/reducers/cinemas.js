@@ -7,6 +7,11 @@ const cinemasReducer = (state = cinemasReducerDefaultState, action) => {
                 ...state,
                 action.cinema
             ];
+        case 'ADD_CINEMAS':
+            return [
+                ...state,
+                ...action.cinemas
+            ];
         default:
             return state;
     }

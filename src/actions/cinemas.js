@@ -12,3 +12,10 @@ export const addCinema = ({code, name, address, city, geoloc, screenCount, hasPR
         }
     }
 };
+
+export const addCinemas = (cinemas) => {
+    return {
+        type: 'ADD_CINEMAS',
+        cinemas
+    }
+};

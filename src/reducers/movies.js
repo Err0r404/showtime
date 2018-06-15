@@ -17,7 +17,6 @@ const cinemasReducer = (state = cinemasReducerDefaultState, action) => {
                 ...state,
                 ...action.movies
             ];
-            // return action.movies;
         default:
             return state;
     }
