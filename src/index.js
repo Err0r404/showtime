@@ -7,6 +7,8 @@ import 'bootstrap-material-design/dist/css/bootstrap-material-design.css';
 import theaterlist from './data/theaterlist';
 import showtimelist from './data/showtimelist';
 
+import AlloCine from './api/allocine';
+
 import App from './App';
 import configureStore from './store/configureStore';
 import {addCinemas} from "./actions/cinemas";
@@ -22,7 +24,7 @@ for(let cinema of theaterlist.feed.theater){
     cinemas.push(cinema);
     // store.dispatch(addCinema({...cinema}));
 }
-store.dispatch(addCinemas(cinemas));
+// store.dispatch(addCinemas(cinemas));
 
 // Parse showtimelist API results
 let movies = [];
@@ -79,8 +81,6 @@ for(let movieShowtimes of showtimelist.feed.theaterShowtimes[0].movieShowtimes){
     }
 }
 store.dispatch(addMovies(movies));
-
-
 
 console.log(store.getState());
 
