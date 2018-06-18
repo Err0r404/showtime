@@ -2,6 +2,7 @@ import React from 'react';
 
 const StarRating = ({rating, max, code}) => {
     return (
+
         <div>
             {[...Array(Math.floor(rating))].map((x, i) =>
                 <ion-icon key={code+i} name="star"></ion-icon>

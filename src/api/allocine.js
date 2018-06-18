@@ -44,6 +44,22 @@ class AlloCine {
 
         return this._prepareRequest('theaterlist', params);
     }
+
+    showtimeList(cinemaCode){
+        const params = {
+            zip: '',
+            lat: '',
+            long: '',
+            radius: '5',
+            theaters: cinemaCode,
+            location: '',
+            movie: '',
+            date: moment().format('YYYY-MM-DD'), // YYYY-MM-DD
+            format: 'json',
+        };
+
+        return this._prepareRequest('showtimelist', params);
+    }
 }
 
 export default AlloCine;

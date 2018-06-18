@@ -18,8 +18,8 @@ const AppRouter = () => {
                     <Switch>
                         <Route path="/" component={CinemasList} exact={true} />
                         <Route path="/cinemas" component={CinemasList} exact={true} />
-                        <Route path="/cinemas/:id" component={MovieList} />
-                        <Route path="/movies/:id" component={MovieDashboard} />
+                        <Route path="/cinemas/:code" component={MovieList} />
+                        <Route path="/movies/:code" component={MovieDashboard} />
                         <Route component={NotFoundPage} />
                     </Switch>
                 </div>

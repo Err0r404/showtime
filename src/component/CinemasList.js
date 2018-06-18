@@ -26,10 +26,7 @@ class CinemasList extends React.Component {
             let queryUrl = alloCine.theaterList('34000');
 
             // Actually do the request
-            axios.get(queryUrl, {
-                "user-agent": alloCine.userAgent,
-                "timeout": 10000 // 10 seconds
-            })
+            axios.get(queryUrl, {"user-agent": alloCine.userAgent, "timeout": 10000})
                 .then(response => {
                     console.log(response.data.feed.theater);
 

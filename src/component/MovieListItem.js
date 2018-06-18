@@ -12,7 +12,7 @@ const MovieListItem = ({code, title, runtime, genres, directors, actors, pressRa
 
     return (
         <div className="row mb-5">
-            <a href={"/movies/" + code} className="text-dark">
+            <Link to={"/movies/" + code} className="text-dark">
                 <div className="col">
                     <div className="row">
                         {/* Poster */}
@@ -39,28 +39,28 @@ const MovieListItem = ({code, title, runtime, genres, directors, actors, pressRa
                         </div>
                     </div>
                 </div>
-            </a>
+            </Link>
 
             {/* Scores */}
             <div className="col-12 mt-3 mb-3">
                 <div className="row">
-                    <div className="col text-center">
+                    {!!pressRating && <div className="col-6 text-center">
                         <p className="mb-0">
                             {/* Rounded to 1 decimal */}
                             <b>Presse : </b>{Math.round(pressRating * 10) / 10}
                         </p>
 
                         <StarRating code={code} rating={pressRating} max={5}/>
-                    </div>
+                    </div>}
 
-                    <div className="col text-center">
+                    {!!userRating && <div className="col-6 text-center">
                         <p className="mb-0">
                             {/* Rounded to 1 decimal */}
                             <b>Public : </b>{Math.round(userRating * 10) / 10}
                         </p>
 
                         <StarRating code={code} rating={userRating} max={5}/>
-                    </div>
+                    </div>}
                 </div>
             </div>
 

@@ -1,24 +1,127 @@
 import React from 'react';
 import {connect} from 'react-redux';
+import axios from "axios/index";
 
 import MovieListItem from "./MovieListItem";
 import MoviesListFilter from "./MoviesListFilter";
 import getVisibleMovies from "../selectors/movies";
+import AlloCine from "../api/allocine";
+import {addMovies} from "../actions/movies";
 
-const MovieList = (props) => {
-    return (
-        <div className="row">
-            <div className="col">
-                <MoviesListFilter/>
+class MovieList extends React.Component {
+    constructor(props) {
+        super(props);
 
-                {
-                    props.movies.map((movie) => {
-                        return <MovieListItem key={movie.code} {...movie}/>
-                    })
-                }
+        this.props = props;
+
+        this.state = {
+            error: false,
+            pending: true
+        };
+    }
+
+    componentDidMount() {
+        if (this.props.movies.length === 0) {
+            let alloCine = new AlloCine();
+            let queryUrl = alloCine.showtimeList(this.props.match.params.code);
+
+            // Actually do the request
+            axios.get(queryUrl, {"user-agent": alloCine.userAgent, "timeout": 10000})
+                .then(response => {
+                    console.log(response.data.feed);
+
+                    this.setState({pending: false});
+
+                    let movies = [];
+                    for (let movieShowtimes of response.data.feed.theaterShowtimes[0].movieShowtimes) {
+                        let found = false;
+                        for (let index in movies) {
+                            if (movies[index].code !== undefined && movies[index].code === movieShowtimes.onShow.movie.code) {
+                                found = index;
+                                break;
+                            }
+                        }
+
+                        if (found === false) {
+                            let genres = [];
+                            for (let genre of movieShowtimes.onShow.movie.genre) {
+                                genres.push(genre.$);
+                            }
+
+                            let schedules = [];
+                            for (let schedule of movieShowtimes.scr[0].t) {
+                                schedules.push(schedule.$)
+                            }
+
+                            let showtime = {
+                                type: movieShowtimes.version.$ + ', ' + movieShowtimes.screenFormat.$,
+                                schedules
+                            };
+
+                            movies.push({
+                                code: movieShowtimes.onShow.movie.code,
+                                title: movieShowtimes.onShow.movie.title,
+                                runtime: movieShowtimes.onShow.movie.runtime,
+                                genres,
+                                directors: movieShowtimes.onShow.movie.castingShort.directors,
+                                actors: movieShowtimes.onShow.movie.castingShort.actors,
+                                pressRating: movieShowtimes.onShow.movie.statistics.pressRating,
+                                userRating: movieShowtimes.onShow.movie.statistics.userRating,
+                                poster: movieShowtimes.onShow.movie.poster.href,
+                                showtimes: [showtime]
+                            });
+                        }
+                        else {
+                            let schedules = [];
+                            for (let schedule of movieShowtimes.scr[0].t) {
+                                schedules.push(schedule.$)
+                            }
+
+                            let showtime = {
+                                type: movieShowtimes.version.$ + ', ' + movieShowtimes.screenFormat.$,
+                                schedules
+                            };
+
+                            movies[found].showtimes.push(showtime);
+                        }
+                    }
+                    this.props.dispatch(addMovies(movies));
+                })
+                .catch(function (error) {
+                    console.error(error);
+                    this.setState({error: true});
+                })
+            ;
+        }
+        else {
+            this.setState({pending: false});
+        }
+    }
+
+    render() {
+        return (
+            <div className="row">
+                <div className="col">
+                    <MoviesListFilter/>
+
+                    {this.state.error && <div className="alert alert-danger mt-4" role="alert">
+                        Hum... That's embarrassing but an error occurred... <br/>
+                        Please try again in a few minutes
+                    </div>}
+
+                    {this.state.pending && <p className="text-center mt-4">
+                        <i className="fa fa-circle-o-notch fa-spin fa-4x fa-fw" aria-hidden="true"></i>
+                    </p>}
+
+                    {
+                        this.props.movies.map((movie) => {
+                            return <MovieListItem key={movie.code} {...movie}/>
+                        })
+                    }
+                </div>
             </div>
-        </div>
-    );
+        );
+    }
 };
 
 const mapStateToProps = (state) => {
