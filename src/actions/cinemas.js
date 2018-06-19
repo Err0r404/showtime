@@ -19,3 +19,9 @@ export const addCinemas = (cinemas) => {
         cinemas
     }
 };
+
+export const clearCinemas = () => {
+    return {
+        type: 'CLEAR_CINEMAS'
+    }
+};

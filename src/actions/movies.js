@@ -30,3 +30,9 @@ export const addMovies = (movies) => {
         movies
     }
 };
+
+export const clearMovies = () => {
+    return {
+        type: 'CLEAR_MOVIES'
+    }
+};

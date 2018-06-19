@@ -12,6 +12,8 @@ const cinemasReducer = (state = cinemasReducerDefaultState, action) => {
                 ...state,
                 ...action.cinemas
             ];
+        case 'CLEAR_CINEMAS':
+            return [];
         default:
             return state;
     }

@@ -1,6 +1,6 @@
-const cinemasReducerDefaultState = [];
+const moviesReducerDefaultState = [];
 
-const cinemasReducer = (state = cinemasReducerDefaultState, action) => {
+const moviesReducer = (state = moviesReducerDefaultState, action) => {
     switch (action.type) {
         case 'ADD_MOVIE':
             return [
@@ -17,9 +17,11 @@ const cinemasReducer = (state = cinemasReducerDefaultState, action) => {
                 ...state,
                 ...action.movies
             ];
+        case 'CLEAR_MOVIES':
+            return [];
         default:
             return state;
     }
 };
 
-export default cinemasReducer;
+export default moviesReducer;

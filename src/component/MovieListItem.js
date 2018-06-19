@@ -1,5 +1,5 @@
 import React from 'react';
-import moment from 'moment/moment';
+import moment from 'moment';
 import momentDurationFormat from 'moment-duration-format';
 import {Link} from "react-router-dom";
 
@@ -22,9 +22,9 @@ const MovieListItem = ({code, title, runtime, genres, directors, actors, pressRa
 
                         {/* Tile & description */}
                         <div className="col-8">
-                            <p className="h4 mb-0">{title}</p>
+                            <p className="h4 mb-1">{title}</p>
 
-                            <small className="d-block">
+                            <small className="d-block mb-1">
                                 {moment.duration(runtime, 'seconds').format('hh[h] mm[m]')}
                                 <span className="ml-1 mr-1">–</span>
                                 {genres.map((genre, index) => {
@@ -72,9 +72,16 @@ const MovieListItem = ({code, title, runtime, genres, directors, actors, pressRa
                             <p className="mb-0 font-weight-bold">{showtime.type}</p>
                             <ul className="list-inline mb-1">
                                 {showtime.schedules.map((schedule) => {
-                                    return (<li key={code + "_" + schedule} className="list-inline-item h4">
-                                        <span className="badge badge-primary">{schedule}</span>
-                                    </li>)
+                                    if(moment(schedule, 'HH:mm').isBefore(moment())){
+                                        return (<li key={code + "_" + schedule} className="list-inline-item h4">
+                                            {<span className="badge badge-secondary">{schedule}</span>}
+                                        </li>)
+                                    }
+                                    else{
+                                        return (<li key={code + "_" + schedule} className="list-inline-item h4">
+                                            {<span className="badge badge-primary">{schedule}</span>}
+                                        </li>)
+                                    }
                                 })}
                             </ul>
                         </div>

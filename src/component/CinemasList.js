@@ -6,7 +6,7 @@ import CinemasListItem from './CinemasListItem'
 import CinemaListFilter from "./CinemasListFilter";
 import getVisibleCinemas from "../selectors/cinemas";
 import AlloCine from "../api/allocine";
-import {addCinemas} from "../actions/cinemas";
+import {addCinemas, clearCinemas} from "../actions/cinemas";
 
 class CinemasList extends React.Component {
     constructor(props) {
@@ -21,32 +21,28 @@ class CinemasList extends React.Component {
     }
 
     componentDidMount() {
-        if (this.props.cinemas.length === 0) {
-            let alloCine = new AlloCine();
-            let queryUrl = alloCine.theaterList('34000');
+        this.setState({pending: false});
+        this.props.dispatch(clearCinemas());
 
-            // Actually do the request
-            axios.get(queryUrl, {"user-agent": alloCine.userAgent, "timeout": 10000})
-                .then(response => {
-                    console.log(response.data.feed.theater);
+        let alloCine = new AlloCine();
+        let queryUrl = alloCine.theaterList('34000');
 
-                    this.setState({pending: false});
+        // Actually do the request
+        axios.get(queryUrl, {"user-agent": alloCine.userAgent, "timeout": 10000})
+            .then(response => {
+                this.setState({pending: false});
 
-                    let cinemas = [];
-                    for (let cinema of response.data.feed.theater) {
-                        cinemas.push(cinema);
-                    }
-                    this.props.dispatch(addCinemas(cinemas));
-                })
-                .catch(function (error) {
-                    console.error(error);
-                    this.setState({error: true});
-                })
-            ;
-        }
-        else{
-            this.setState({pending: false});
-        }
+                let cinemas = [];
+                for (let cinema of response.data.feed.theater) {
+                    cinemas.push(cinema);
+                }
+                this.props.dispatch(addCinemas(cinemas));
+            })
+            .catch(function (error) {
+                console.error(error);
+                this.setState({error: true});
+            })
+        ;
     }
 
     render() {
