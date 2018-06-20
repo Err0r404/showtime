@@ -15,22 +15,24 @@ class CinemasList extends React.Component {
         this.props = props;
 
         this.state = {
-            error: false,
-            pending: true
+            apiError: false,
+            apiPending: true,
+            position: {
+                lat: '',
+                long: ''
+            },
+            geoError: false
         };
     }
 
-    componentDidMount() {
-        this.setState({pending: false});
-        this.props.dispatch(clearCinemas());
-
+    getData(lat, long){
         let alloCine = new AlloCine();
-        let queryUrl = alloCine.theaterList('34000');
+        let queryUrl = alloCine.theaterList('', lat, long);
 
         // Actually do the request
         axios.get(queryUrl, {"user-agent": alloCine.userAgent, "timeout": 10000})
             .then(response => {
-                this.setState({pending: false});
+                this.setState({apiPending: false});
 
                 let cinemas = [];
                 for (let cinema of response.data.feed.theater) {
@@ -40,9 +42,50 @@ class CinemasList extends React.Component {
             })
             .catch(function (error) {
                 console.error(error);
-                this.setState({error: true});
+                this.setState({apiError: true});
             })
         ;
+    }
+
+    componentDidMount() {
+        this.setState({apiPending: true});
+        this.props.dispatch(clearCinemas());
+
+        if(navigator.geolocation){
+            this._geoSuccessCallback = (position) => {
+                console.log('lat: ',position.coords.latitude);
+                console.log('long: ',position.coords.longitude);
+
+                this.getData(position.coords.latitude, position.coords.longitude)
+            };
+
+            this._geoErrorCallback = (error) => {
+                this.setState({apiPending: false});
+
+                switch (error.code) {
+                    case error.TIMEOUT:
+                        console.log("Browser geolocation error !\nTimeout.");
+                        this.setState({geoError: "Timeout on browser geolocation"});
+                        break;
+                    case error.PERMISSION_DENIED:
+                        console.log("Only secure origins are allowed\nPermission denied");
+                        this.setState({geoError: "Geolocation permission denied"});
+                        break;
+                    case error.POSITION_UNAVAILABLE:
+                        console.log("Browser geolocation error !\nPosition unavailable.");
+                        this.setState({geoError: "Position unavailable"});
+                        break;
+                    default:
+                        console.log(error.code);
+                        break;
+                }
+            };
+
+            navigator.geolocation.getCurrentPosition(this._geoSuccessCallback, this._geoErrorCallback, {maximumAge: 900000});
+        }
+        else {
+            console.log("Geolocation is not supported for this Browser/OS.");
+        }
     }
 
     render() {
@@ -51,12 +94,17 @@ class CinemasList extends React.Component {
                 <div className="col">
                     <CinemaListFilter/>
 
-                    {this.state.error && <div className="alert alert-danger mt-4" role="alert">
+                    {this.state.apiError && <div className="alert alert-danger mt-4" role="alert">
                         Hum... That's embarrassing but an error occurred... <br/>
                         Please try again in a few minutes
                     </div>}
 
-                    {this.state.pending && <p className="text-center mt-4">
+                    {this.state.geoError && <div className="alert alert-danger mt-4" role="alert">
+                        Hum... That's embarrassing but an error occurred... <br/>
+                        <b>{this.state.geoError}</b>
+                    </div>}
+
+                    {this.state.apiPending && <p className="text-center mt-4">
                         <i className="fa fa-circle-o-notch fa-spin fa-4x fa-fw" aria-hidden="true"></i>
                     </p>}
 
