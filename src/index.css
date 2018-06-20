@@ -1,0 +1,13 @@
+.blur {
+    position: absolute;
+    filter: blur(5px);
+    height: 100%;
+}
+
+.blur-left {
+    left: -10px;
+}
+
+.blur-right {
+    right: -10px;
+}

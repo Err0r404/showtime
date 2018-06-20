@@ -11,27 +11,27 @@ class AlloCine {
         this.userAgent = "Dalvik/1.6.0 (Linux; U; Android 4.2.2; Nexus 4 Build/JDQ39E)";
     }
 
-    _prepareRequest(method, params = {}) {
+    _prepareRequest(endPoint, params = {}) {
         // Add required params value
         params.partner = this.partnerKey;
 
         // Build URL
-        let queryUrl = this.apiUrl + '/' + method;
+        let queryUrl = this.apiUrl + '/' + endPoint;
 
         // Build query
         let sed = moment().format('YYYYMMDD');
         let sign = encodeURIComponent(
-                Base64.stringify(
-                    sha1(this.secretKey + httpBuildQuery(params) + '&sed=' + sed)
-                )
-            );
+            Base64.stringify(
+                sha1(this.secretKey + httpBuildQuery(params) + '&sed=' + sed)
+            )
+        );
         queryUrl += '?' + httpBuildQuery(params) + '&sed=' + sed + '&sig=' + sign;
         // console.log('URL', queryUrl);
 
         return queryUrl;
     }
 
-    theaterList(zip, lat, long){
+    theaterList(zip, lat, long) {
         const params = {
             zip,
             lat,
@@ -45,7 +45,7 @@ class AlloCine {
         return this._prepareRequest('theaterlist', params);
     }
 
-    showtimeList(cinemaCode){
+    showtimeList(cinemaCode = '', movieCode = '', date = moment().format('YYYY-MM-DD')) {
         const params = {
             zip: '',
             lat: '',
@@ -53,12 +53,24 @@ class AlloCine {
             radius: '5',
             theaters: cinemaCode,
             location: '',
-            movie: '',
-            date: moment().format('YYYY-MM-DD'), // YYYY-MM-DD
+            movie: movieCode,
+            date, // YYYY-MM-DD
             format: 'json',
         };
 
         return this._prepareRequest('showtimelist', params);
+    }
+
+    movie(movieCode = ''){
+        const params = {
+            code: movieCode,
+            profile: 'large',
+            filter: 'movie',
+            striptags: 'synopsis',
+            format: 'json',
+        };
+
+        return this._prepareRequest('movie', params);
     }
 }
 

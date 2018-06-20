@@ -11,12 +11,12 @@ import {addMovies, clearMovies} from "../actions/movies";
 class MovieList extends React.Component {
     constructor(props) {
         super(props);
-
         this.props = props;
 
         this.state = {
             error: false,
-            pending: true
+            pending: true,
+            cinema : this.props.match.params.code
         };
     }
 
@@ -101,7 +101,7 @@ class MovieList extends React.Component {
         return (
             <div className="row">
                 <div className="col">
-                    {!this.state.pending && this.props.movies.length > 0 && <MoviesListFilter/>}
+                    {!this.state.pending && <MoviesListFilter/>}
 
                     {this.state.error && <div className="alert alert-danger mt-4" role="alert">
                         Hum... That's embarrassing but an error occurred... <br/>
@@ -112,14 +112,14 @@ class MovieList extends React.Component {
                         <i className="fa fa-circle-o-notch fa-spin fa-4x fa-fw" aria-hidden="true"></i>
                     </p>}
 
-                    {!this.state.pending && this.props.movies.length == 0 && <div className="alert alert-info mt-4" role="alert">
+                    {!this.state.pending && this.props.movies.length === 0 && <div className="alert alert-info mt-4" role="alert">
                         Hum... That's strange but we didn't found any movie... <br/>
                         Please try again in a few minutes
                     </div>}
 
                     {
                         this.props.movies.map((movie) => {
-                            return <MovieListItem key={movie.code} {...movie}/>
+                            return <MovieListItem key={movie.code} cinema={this.state.cinema} {...movie}/>
                         })
                     }
                 </div>
@@ -129,8 +129,6 @@ class MovieList extends React.Component {
 };
 
 const mapStateToProps = (state) => {
-    console.log(state);
-
     return {
         movies: getVisibleMovies(state.movies, state.filters)
     }

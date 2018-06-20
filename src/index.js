@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import {Provider} from 'react-redux';
 
 import 'bootstrap-material-design/dist/css/bootstrap-material-design.css';
+import './index.css';
 
 import App from './App';
 import configureStore from './store/configureStore';

@@ -1,0 +1,1237 @@
+{
+  "feed": {
+    "updated": "2018-06-19T10:38:05Z",
+    "page": 1,
+    "count": 10,
+    "totalResults": 1,
+    "theaterShowtimes": [
+      {
+        "place": {
+          "theater": {
+            "code": "P0702",
+            "name": "Gaumont Montpellier multiplexe",
+            "address": "235, Rue Georges M\u00e9lies",
+            "postalCode": "34000",
+            "city": "Montpellier",
+            "area": "Languedoc-Rousillon",
+            "picture": {
+              "path": "\/pictures\/213\/211\/21321194_151227932.jpg",
+              "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/213\/211\/21321194_151227932.jpg"
+            },
+            "cinemaChain": {
+              "code": 81002,
+              "$": "Les Cin\u00e9mas Gaumont Path\u00e9"
+            },
+            "hasPRMAccess": 1,
+            "openToExternalSales": 1,
+            "geoloc": {
+              "lat": 43.6038734,
+              "long": 3.915714
+            },
+            "link": [
+              {
+                "rel": "aco:web",
+                "href": "http:\/\/www.allocine.fr\/seance\/salle_gen_csalle=P0702.html"
+              }
+            ]
+          }
+        },
+        "movieShowtimes": [
+          {
+            "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305801\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+              "movie": {
+                "code": 228558,
+                "title": "Jurassic World: Fallen Kingdom",
+                "castingShort": {
+                  "directors": "Juan Antonio Bayona",
+                  "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+                },
+                "release": {
+                  "releaseDate": "2018-06-06"
+                },
+                "runtime": 7680,
+                "genre": [
+                  {
+                    "code": 13001,
+                    "$": "Aventure"
+                  },
+                  {
+                    "code": 13021,
+                    "$": "Science fiction"
+                  }
+                ],
+                "movieCertificate": {
+                  "certificate": {
+                    "code": 14035,
+                    "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                  }
+                },
+                "poster": {
+                  "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                  "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+                },
+                "trailer": {
+                  "code": 19578026,
+                  "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+                },
+                "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+                "link": [
+                  {
+                    "rel": "aco:web",
+                    "name": "Jurassic World: Fallen Kingdom",
+                    "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+                  }
+                ],
+                "statistics": {
+                  "pressRating": 3.32,
+                  "pressReviewCount": 25,
+                  "userRating": 3.59480119,
+                  "userReviewCount": 426,
+                  "userRatingCount": 3296,
+                  "editorialRatingCount": 0
+                }
+              }
+            },
+            "version": {
+              "original": "false",
+              "code": 6001,
+              "lang": 6001,
+              "$": "Fran\u00e7ais"
+            },
+            "screenFormat": {
+              "code": 110002,
+              "$": "Num\u00e9rique"
+            },
+            "display": "S\u00e9ances du mercredi 13 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du jeudi 14 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du vendredi 15 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du samedi 16 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du dimanche 17 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du lundi 18 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30\r\nS\u00e9ances du mardi 19 juin 2018 : 10:30, 13:15, 16:00, 18:45, 21:30",
+            "scr": [
+              {
+                "d": "2018-06-19",
+                "t": [
+                  {
+                    "code": 626593061,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306336\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:15"
+                  },
+                  {
+                    "code": 626593062,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306337\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:00"
+                  },
+                  {
+                    "code": 626593063,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306338\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "18:45"
+                  },
+                  {
+                    "code": 626593064,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306339\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "21:30"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305831\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+              "movie": {
+                "code": 228558,
+                "title": "Jurassic World: Fallen Kingdom",
+                "castingShort": {
+                  "directors": "Juan Antonio Bayona",
+                  "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+                },
+                "release": {
+                  "releaseDate": "2018-06-06"
+                },
+                "runtime": 7680,
+                "genre": [
+                  {
+                    "code": 13001,
+                    "$": "Aventure"
+                  },
+                  {
+                    "code": 13021,
+                    "$": "Science fiction"
+                  }
+                ],
+                "movieCertificate": {
+                  "certificate": {
+                    "code": 14035,
+                    "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                  }
+                },
+                "poster": {
+                  "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                  "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+                },
+                "trailer": {
+                  "code": 19578026,
+                  "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+                },
+                "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+                "link": [
+                  {
+                    "rel": "aco:web",
+                    "name": "Jurassic World: Fallen Kingdom",
+                    "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+                  }
+                ],
+                "statistics": {
+                  "pressRating": 3.32,
+                  "pressReviewCount": 25,
+                  "userRating": 3.59480119,
+                  "userReviewCount": 426,
+                  "userRatingCount": 3296,
+                  "editorialRatingCount": 0
+                }
+              }
+            },
+            "version": {
+              "original": "false",
+              "code": 6001,
+              "lang": 6001,
+              "$": "Fran\u00e7ais"
+            },
+            "screenFormat": {
+              "code": 110003,
+              "$": "3D"
+            },
+            "display": "S\u00e9ances du mercredi 13 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du jeudi 14 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du vendredi 15 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du samedi 16 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du dimanche 17 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du lundi 18 juin 2018 : 15:00, 18:00, 20:45\r\nS\u00e9ances du mardi 19 juin 2018 : 15:00, 18:00, 20:45",
+            "scr": [
+              {
+                "d": "2018-06-19",
+                "t": [
+                  {
+                    "code": 626593216,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306365\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "15:00"
+                  },
+                  {
+                    "code": 626593217,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306366\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "18:00"
+                  },
+                  {
+                    "code": 626593218,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306367\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "20:45"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305886\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+              "movie": {
+                "code": 228558,
+                "title": "Jurassic World: Fallen Kingdom",
+                "castingShort": {
+                  "directors": "Juan Antonio Bayona",
+                  "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+                },
+                "release": {
+                  "releaseDate": "2018-06-06"
+                },
+                "runtime": 7680,
+                "genre": [
+                  {
+                    "code": 13001,
+                    "$": "Aventure"
+                  },
+                  {
+                    "code": 13021,
+                    "$": "Science fiction"
+                  }
+                ],
+                "movieCertificate": {
+                  "certificate": {
+                    "code": 14035,
+                    "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                  }
+                },
+                "poster": {
+                  "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                  "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+                },
+                "trailer": {
+                  "code": 19578026,
+                  "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+                },
+                "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+                "link": [
+                  {
+                    "rel": "aco:web",
+                    "name": "Jurassic World: Fallen Kingdom",
+                    "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+                  }
+                ],
+                "statistics": {
+                  "pressRating": 3.32,
+                  "pressReviewCount": 25,
+                  "userRating": 3.59480119,
+                  "userReviewCount": 426,
+                  "userRatingCount": 3296,
+                  "editorialRatingCount": 0
+                }
+              }
+            },
+            "version": {
+              "original": "false",
+              "code": 6001,
+              "lang": 6001,
+              "$": "Fran\u00e7ais"
+            },
+            "screenFormat": {
+              "code": 110006,
+              "$": "IMAX 3D"
+            },
+            "display": "S\u00e9ances du mercredi 13 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00\r\nS\u00e9ances du jeudi 14 juin 2018 : 11:00, 13:45, 16:30, 22:00\r\nS\u00e9ances du vendredi 15 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00\r\nS\u00e9ances du samedi 16 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00\r\nS\u00e9ances du dimanche 17 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00\r\nS\u00e9ances du lundi 18 juin 2018 : 16:30, 19:15, 22:00\r\nS\u00e9ances du mardi 19 juin 2018 : 16:30, 22:00",
+            "scr": [
+              {
+                "d": "2018-06-19",
+                "t": [
+                  {
+                    "code": 626593610,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306420\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:30"
+                  },
+                  {
+                    "code": 626593611,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306422\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "22:00"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S305976\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+              "movie": {
+                "code": 228558,
+                "title": "Jurassic World: Fallen Kingdom",
+                "castingShort": {
+                  "directors": "Juan Antonio Bayona",
+                  "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+                },
+                "release": {
+                  "releaseDate": "2018-06-06"
+                },
+                "runtime": 7680,
+                "genre": [
+                  {
+                    "code": 13001,
+                    "$": "Aventure"
+                  },
+                  {
+                    "code": 13021,
+                    "$": "Science fiction"
+                  }
+                ],
+                "movieCertificate": {
+                  "certificate": {
+                    "code": 14035,
+                    "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                  }
+                },
+                "poster": {
+                  "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                  "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+                },
+                "trailer": {
+                  "code": 19578026,
+                  "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+                },
+                "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+                "link": [
+                  {
+                    "rel": "aco:web",
+                    "name": "Jurassic World: Fallen Kingdom",
+                    "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+                  }
+                ],
+                "statistics": {
+                  "pressRating": 3.32,
+                  "pressReviewCount": 25,
+                  "userRating": 3.59480119,
+                  "userReviewCount": 426,
+                  "userRatingCount": 3296,
+                  "editorialRatingCount": 0
+                }
+              }
+            },
+            "version": {
+              "original": "true",
+              "code": 6002,
+              "lang": 6002,
+              "$": "Anglais"
+            },
+            "screenFormat": {
+              "code": 110006,
+              "$": "IMAX 3D"
+            },
+            "display": "S\u00e9ances du jeudi 14 juin 2018 : 19:15\r\nS\u00e9ances du mardi 19 juin 2018 : 19:15",
+            "scr": [
+              {
+                "d": "2018-06-19",
+                "t": [
+                  {
+                    "code": 626593582,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306421\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:15"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306513\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+              "movie": {
+                "code": 228558,
+                "title": "Jurassic World: Fallen Kingdom",
+                "castingShort": {
+                  "directors": "Juan Antonio Bayona",
+                  "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+                },
+                "release": {
+                  "releaseDate": "2018-06-06"
+                },
+                "runtime": 7680,
+                "genre": [
+                  {
+                    "code": 13001,
+                    "$": "Aventure"
+                  },
+                  {
+                    "code": 13021,
+                    "$": "Science fiction"
+                  }
+                ],
+                "movieCertificate": {
+                  "certificate": {
+                    "code": 14035,
+                    "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                  }
+                },
+                "poster": {
+                  "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                  "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+                },
+                "trailer": {
+                  "code": 19578026,
+                  "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+                },
+                "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+                "link": [
+                  {
+                    "rel": "aco:web",
+                    "name": "Jurassic World: Fallen Kingdom",
+                    "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+                  }
+                ],
+                "statistics": {
+                  "pressRating": 3.32,
+                  "pressReviewCount": 25,
+                  "userRating": 3.59480119,
+                  "userReviewCount": 426,
+                  "userRatingCount": 3296,
+                  "editorialRatingCount": 0
+                }
+              }
+            },
+            "version": {
+              "original": "false",
+              "code": 6001,
+              "lang": 6001,
+              "$": "Fran\u00e7ais"
+            },
+            "screenFormat": {
+              "code": 110006,
+              "$": "IMAX 3D"
+            },
+            "display": "S\u00e9ances du mercredi 20 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00\r\nS\u00e9ances du jeudi 21 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00\r\nS\u00e9ances du vendredi 22 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00\r\nS\u00e9ances du samedi 23 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00\r\nS\u00e9ances du dimanche 24 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00\r\nS\u00e9ances du lundi 25 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00\r\nS\u00e9ances du mardi 26 juin 2018 : 11:00, 13:45, 16:30, 19:15, 22:00",
+            "scr": [
+              {
+                "d": "2018-06-20",
+                "t": [
+                  {
+                    "code": 626616883,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306513\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "11:00"
+                  },
+                  {
+                    "code": 626616884,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306514\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:45"
+                  },
+                  {
+                    "code": 626616885,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306515\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:30"
+                  },
+                  {
+                    "code": 626616886,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306516\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:15"
+                  },
+                  {
+                    "code": 626616887,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306517\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "22:00"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-21",
+                "t": [
+                  {
+                    "code": 626616888,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306603\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "11:00"
+                  },
+                  {
+                    "code": 626616889,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306604\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:45"
+                  },
+                  {
+                    "code": 626616890,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306605\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:30"
+                  },
+                  {
+                    "code": 626616891,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306606\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:15"
+                  },
+                  {
+                    "code": 626616892,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306607\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "22:00"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-22",
+                "t": [
+                  {
+                    "code": 626616893,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306695\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "11:00"
+                  },
+                  {
+                    "code": 626616894,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306696\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:45"
+                  },
+                  {
+                    "code": 626616895,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306697\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:30"
+                  },
+                  {
+                    "code": 626616896,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306698\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:15"
+                  },
+                  {
+                    "code": 626616897,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306699\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "22:00"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-23",
+                "t": [
+                  {
+                    "code": 626616898,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306787\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "11:00"
+                  },
+                  {
+                    "code": 626616899,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306788\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:45"
+                  },
+                  {
+                    "code": 626616900,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306789\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:30"
+                  },
+                  {
+                    "code": 626616901,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306790\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:15"
+                  },
+                  {
+                    "code": 626616902,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306791\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "22:00"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-24",
+                "t": [
+                  {
+                    "code": 626616903,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306871\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "11:00"
+                  },
+                  {
+                    "code": 626616904,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306872\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:45"
+                  },
+                  {
+                    "code": 626616905,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306873\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:30"
+                  },
+                  {
+                    "code": 626616906,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306874\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:15"
+                  },
+                  {
+                    "code": 626616907,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306875\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "22:00"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-25",
+                "t": [
+                  {
+                    "code": 626616908,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306963\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "11:00"
+                  },
+                  {
+                    "code": 626616909,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306964\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:45"
+                  },
+                  {
+                    "code": 626616910,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306965\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:30"
+                  },
+                  {
+                    "code": 626616911,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306966\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:15"
+                  },
+                  {
+                    "code": 626616912,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306967\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "22:00"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-26",
+                "t": [
+                  {
+                    "code": 626616913,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307055\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "11:00"
+                  },
+                  {
+                    "code": 626616914,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307056\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:45"
+                  },
+                  {
+                    "code": 626616915,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307057\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:30"
+                  },
+                  {
+                    "code": 626616916,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307058\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:15"
+                  },
+                  {
+                    "code": 626616917,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307059\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "22:00"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306833\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+              "movie": {
+                "code": 228558,
+                "title": "Jurassic World: Fallen Kingdom",
+                "castingShort": {
+                  "directors": "Juan Antonio Bayona",
+                  "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+                },
+                "release": {
+                  "releaseDate": "2018-06-06"
+                },
+                "runtime": 7680,
+                "genre": [
+                  {
+                    "code": 13001,
+                    "$": "Aventure"
+                  },
+                  {
+                    "code": 13021,
+                    "$": "Science fiction"
+                  }
+                ],
+                "movieCertificate": {
+                  "certificate": {
+                    "code": 14035,
+                    "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                  }
+                },
+                "poster": {
+                  "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                  "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+                },
+                "trailer": {
+                  "code": 19578026,
+                  "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+                },
+                "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+                "link": [
+                  {
+                    "rel": "aco:web",
+                    "name": "Jurassic World: Fallen Kingdom",
+                    "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+                  }
+                ],
+                "statistics": {
+                  "pressRating": 3.32,
+                  "pressReviewCount": 25,
+                  "userRating": 3.59480119,
+                  "userReviewCount": 426,
+                  "userRatingCount": 3296,
+                  "editorialRatingCount": 0
+                }
+              }
+            },
+            "version": {
+              "original": "false",
+              "code": 6001,
+              "lang": 6001,
+              "$": "Fran\u00e7ais"
+            },
+            "screenFormat": {
+              "code": 110002,
+              "$": "Num\u00e9rique"
+            },
+            "display": "S\u00e9ances du mercredi 20 juin 2018 : 10:30, 13:15, 16:15, 19:00, 21:45\r\nS\u00e9ances du jeudi 21 juin 2018 : 10:30, 13:15, 16:15, 19:00, 21:45\r\nS\u00e9ances du vendredi 22 juin 2018 : 10:30, 13:15, 16:15, 19:00, 21:45\r\nS\u00e9ances du samedi 23 juin 2018 : 10:30, 13:15, 16:15, 19:00, 21:45\r\nS\u00e9ances du dimanche 24 juin 2018 : 10:30, 14:15, 16:00, 19:00, 21:45\r\nS\u00e9ances du lundi 25 juin 2018 : 10:30, 13:15, 16:15, 19:00, 21:45\r\nS\u00e9ances du mardi 26 juin 2018 : 10:30, 13:15, 16:15, 19:00, 21:45",
+            "scr": [
+              {
+                "d": "2018-06-20",
+                "t": [
+                  {
+                    "code": 626616595,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306471\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "10:30"
+                  },
+                  {
+                    "code": 626616596,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306472\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:15"
+                  },
+                  {
+                    "code": 626616597,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306473\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:15"
+                  },
+                  {
+                    "code": 626616598,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306474\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:00"
+                  },
+                  {
+                    "code": 626616599,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306475\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "21:45"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-21",
+                "t": [
+                  {
+                    "code": 626616600,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306563\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "10:30"
+                  },
+                  {
+                    "code": 626616601,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306564\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:15"
+                  },
+                  {
+                    "code": 626616602,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306565\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:15"
+                  },
+                  {
+                    "code": 626616603,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306566\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:00"
+                  },
+                  {
+                    "code": 626616604,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306567\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "21:45"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-22",
+                "t": [
+                  {
+                    "code": 626616605,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306653\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "10:30"
+                  },
+                  {
+                    "code": 626616606,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306654\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:15"
+                  },
+                  {
+                    "code": 626616607,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306655\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:15"
+                  },
+                  {
+                    "code": 626616608,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306656\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:00"
+                  },
+                  {
+                    "code": 626616609,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306657\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "21:45"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-23",
+                "t": [
+                  {
+                    "code": 626616610,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306745\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "10:30"
+                  },
+                  {
+                    "code": 626616611,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306746\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:15"
+                  },
+                  {
+                    "code": 626616612,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306747\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:15"
+                  },
+                  {
+                    "code": 626616613,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306748\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:00"
+                  },
+                  {
+                    "code": 626616614,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306749\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "21:45"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-24",
+                "t": [
+                  {
+                    "code": 626616812,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306859\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "10:30"
+                  },
+                  {
+                    "code": 626616813,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306860\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "14:15"
+                  },
+                  {
+                    "code": 626616585,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306833\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:00"
+                  },
+                  {
+                    "code": 626616615,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306836\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:00"
+                  },
+                  {
+                    "code": 626616616,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306837\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "21:45"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-25",
+                "t": [
+                  {
+                    "code": 626616617,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306921\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "10:30"
+                  },
+                  {
+                    "code": 626616618,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306922\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:15"
+                  },
+                  {
+                    "code": 626616619,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306923\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:15"
+                  },
+                  {
+                    "code": 626616620,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306924\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:00"
+                  },
+                  {
+                    "code": 626616621,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306925\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "21:45"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-26",
+                "t": [
+                  {
+                    "code": 626616622,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307013\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "10:30"
+                  },
+                  {
+                    "code": 626616623,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307014\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "13:15"
+                  },
+                  {
+                    "code": 626616624,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307015\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "16:15"
+                  },
+                  {
+                    "code": 626616625,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307016\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "19:00"
+                  },
+                  {
+                    "code": 626616626,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307017\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "21:45"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "ticketing": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306457\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+              "movie": {
+                "code": 228558,
+                "title": "Jurassic World: Fallen Kingdom",
+                "castingShort": {
+                  "directors": "Juan Antonio Bayona",
+                  "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda"
+                },
+                "release": {
+                  "releaseDate": "2018-06-06"
+                },
+                "runtime": 7680,
+                "genre": [
+                  {
+                    "code": 13001,
+                    "$": "Aventure"
+                  },
+                  {
+                    "code": 13021,
+                    "$": "Science fiction"
+                  }
+                ],
+                "movieCertificate": {
+                  "certificate": {
+                    "code": 14035,
+                    "$": "Avertissement : des sc\u00e8nes, des propos ou des images peuvent heurter la sensibilit\u00e9 des spectateurs"
+                  }
+                },
+                "poster": {
+                  "path": "\/pictures\/18\/04\/18\/08\/52\/3826877.jpg",
+                  "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/18\/04\/18\/08\/52\/3826877.jpg"
+                },
+                "trailer": {
+                  "code": 19578026,
+                  "href": "http:\/\/www.allocine.fr\/blogvision\/19578026"
+                },
+                "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19578026&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html\" target=\"_blank\">Jurassic World: Fallen Kingdom<\/a><\/div>",
+                "link": [
+                  {
+                    "rel": "aco:web",
+                    "name": "Jurassic World: Fallen Kingdom",
+                    "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=228558.html"
+                  }
+                ],
+                "statistics": {
+                  "pressRating": 3.32,
+                  "pressReviewCount": 25,
+                  "userRating": 3.59480119,
+                  "userReviewCount": 426,
+                  "userRatingCount": 3296,
+                  "editorialRatingCount": 0
+                }
+              }
+            },
+            "version": {
+              "original": "false",
+              "code": 6001,
+              "lang": 6001,
+              "$": "Fran\u00e7ais"
+            },
+            "screenFormat": {
+              "code": 110003,
+              "$": "3D"
+            },
+            "display": "S\u00e9ances du mercredi 20 juin 2018 : 15:30, 18:30\r\nS\u00e9ances du jeudi 21 juin 2018 : 15:30, 18:30\r\nS\u00e9ances du vendredi 22 juin 2018 : 15:30, 18:30\r\nS\u00e9ances du samedi 23 juin 2018 : 15:30, 18:30\r\nS\u00e9ances du dimanche 24 juin 2018 : 15:30, 18:30\r\nS\u00e9ances du lundi 25 juin 2018 : 15:30, 18:30\r\nS\u00e9ances du mardi 26 juin 2018 : 15:30, 18:30",
+            "scr": [
+              {
+                "d": "2018-06-20",
+                "t": [
+                  {
+                    "code": 626616481,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306457\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "15:30"
+                  },
+                  {
+                    "code": 626616482,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306458\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "18:30"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-21",
+                "t": [
+                  {
+                    "code": 626616483,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306549\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "15:30"
+                  },
+                  {
+                    "code": 626616484,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306550\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "18:30"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-22",
+                "t": [
+                  {
+                    "code": 626616485,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306639\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "15:30"
+                  },
+                  {
+                    "code": 626616486,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306640\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "18:30"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-23",
+                "t": [
+                  {
+                    "code": 626616487,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306731\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "15:30"
+                  },
+                  {
+                    "code": 626616488,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306732\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "18:30"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-24",
+                "t": [
+                  {
+                    "code": 626616489,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306822\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "15:30"
+                  },
+                  {
+                    "code": 626616490,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306823\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "18:30"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-25",
+                "t": [
+                  {
+                    "code": 626616491,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306907\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "15:30"
+                  },
+                  {
+                    "code": 626616492,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306908\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "18:30"
+                  }
+                ]
+              },
+              {
+                "d": "2018-06-26",
+                "t": [
+                  {
+                    "code": 626616493,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S306999\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "15:30"
+                  },
+                  {
+                    "code": 626616494,
+                    "p": 0,
+                    "tk": "https:\/\/s.cinemasgaumontpathe.com\/#\/C3335S307000\/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&landingstep=0&partenaire=allocine&e=[email]",
+                    "$": "18:30"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

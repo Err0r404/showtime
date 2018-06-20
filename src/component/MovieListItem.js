@@ -8,11 +8,10 @@ import StarRating from "./StarRating";
 moment.locale('fr');
 momentDurationFormat(moment);
 
-const MovieListItem = ({code, title, runtime, genres, directors, actors, pressRating, userRating, poster, showtimes}) => {
-
+const MovieListItem = ({cinema, code, title, runtime, genres, directors, actors, pressRating, userRating, poster, showtimes}) => {
     return (
         <div className="row mb-5">
-            <Link to={"/movies/" + code} className="text-dark">
+            <Link to={"/movies/" + cinema + "/" + code} className="text-dark">
                 <div className="col">
                     <div className="row">
                         {/* Poster */}
@@ -28,7 +27,7 @@ const MovieListItem = ({code, title, runtime, genres, directors, actors, pressRa
                                 {moment.duration(runtime, 'seconds').format('hh[h] mm[m]')}
                                 <span className="ml-1 mr-1">–</span>
                                 {genres.map((genre, index) => {
-                                    return index === 0 ? genre : ' / ' + genre;
+                                    return index === 0 ? genre : ', ' + genre;
                                 })}
                             </small>
 
@@ -73,12 +72,12 @@ const MovieListItem = ({code, title, runtime, genres, directors, actors, pressRa
                             <ul className="list-inline mb-1">
                                 {showtime.schedules.map((schedule) => {
                                     if(moment(schedule, 'HH:mm').isBefore(moment())){
-                                        return (<li key={code + "_" + schedule} className="list-inline-item h4">
+                                        return (<li key={code + "_" + schedule} className="list-inline-item h5">
                                             {<span className="badge badge-secondary">{schedule}</span>}
                                         </li>)
                                     }
                                     else{
-                                        return (<li key={code + "_" + schedule} className="list-inline-item h4">
+                                        return (<li key={code + "_" + schedule} className="list-inline-item h5">
                                             {<span className="badge badge-primary">{schedule}</span>}
                                         </li>)
                                     }
