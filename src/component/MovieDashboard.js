@@ -145,16 +145,18 @@ class MovieDashboard extends React.Component {
     render() {
         return (
             <div>
-                <div className="row">
-                    <div className="col">
-                        {this.state.error && <div className="alert alert-danger mt-4" role="alert">
-                            Hum... That's embarrassing but an error occurred... <br/>
-                            Please try again in a few minutes
-                        </div>}
+                <div className="container">
+                    <div className="row">
+                        <div className="col">
+                            {this.state.error && <div className="alert alert-danger mt-4" role="alert">
+                                Hum... That's embarrassing but an error occurred... <br/>
+                                Please try again in a few minutes
+                            </div>}
 
-                        {this.state.pending && <p className="text-center mt-4">
-                            <i className="fa fa-circle-o-notch fa-spin fa-4x fa-fw" aria-hidden="true"/>
-                        </p>}
+                            {this.state.pending && <p className="text-center mt-4">
+                                <i className="fa fa-circle-o-notch fa-spin fa-4x fa-fw" aria-hidden="true"/>
+                            </p>}
+                        </div>
                     </div>
                 </div>
 
@@ -169,165 +171,169 @@ class MovieDashboard extends React.Component {
                 </div>
 
                 {/* Title + time + genres */}
-                <div className="row">
-                    <div className="col text-center">
-                        <p className="lead font-weight-bold mb-1 text-uppercase">{this.state.movie.title}</p>
+                <div className="container">
+                    <div className="row">
+                        <div className="col text-center">
+                            <p className="lead font-weight-bold mb-1 text-uppercase">{this.state.movie.title}</p>
 
-                        <p className="text-muted mb-0">
-                            {this.state.movie.genres.map((genre, index) => {
-                                return index === 0 ? genre : ', ' + genre;
-                            })}
-                        </p>
+                            <p className="text-muted mb-0">
+                                {this.state.movie.genres.map((genre, index) => {
+                                    return index === 0 ? genre : ', ' + genre;
+                                })}
+                            </p>
 
-                        <p className="text-muted">
-                            {moment.duration(this.state.movie.runtime, 'seconds').format('hh[h] mm[m]')}
-                        </p>
+                            <p className="text-muted">
+                                {moment.duration(this.state.movie.runtime, 'seconds').format('hh[h] mm[m]')}
+                            </p>
+                        </div>
                     </div>
                 </div>
 
-                <div className="row">
-                    <div className="col">
-                        {/* Tabs */}
-                        <ul className="nav nav-tabs bg-dark mb-4" role="tablist">
-                            <li className="nav-item">
-                                <a href="#movie" className="nav-link" data-toggle="tab" role="tab" aria-controls="movie"
-                                   aria-selected="true">
-                                    Movie
-                                </a>
-                            </li>
+                {/* Tabs */}
+                <ul className="nav nav-tabs bg-dark mb-4 pl-3" role="tablist">
+                    <li className="nav-item">
+                        <a href="#movie" className="nav-link active" data-toggle="tab" role="tab" aria-controls="movie"
+                           aria-selected="true">
+                            Movie
+                        </a>
+                    </li>
 
-                            <li className="nav-item">
-                                <a href="#seances" className="nav-link active" data-toggle="tab" role="tab"
-                                   aria-controls="seances" aria-selected="false">
-                                    Seances
-                                </a>
-                            </li>
-                        </ul>
+                    <li className="nav-item">
+                        <a href="#seances" className="nav-link" data-toggle="tab" role="tab"
+                           aria-controls="seances" aria-selected="false">
+                            Seances
+                        </a>
+                    </li>
+                </ul>
 
-                        {/* Tabs content */}
-                        <div className="tab-content">
-                            {/* Scores + Movie's info */}
-                            <div id="movie" className="tab-pane fade" role="tabpanel" aria-labelledby="movie-tab">
-                                <div className="row mb-4">
-                                    <div className="col">
-                                        {/* Press rating */}
-                                        <div className="row">
-                                            <div className="col">
-                                                <p className="mb-0">
-                                                    {/* Rounded to 1 decimal */}
-                                                    Presse : <b>{Math.round(this.state.movie.pressRating * 10) / 10}</b>
-                                                </p>
+                {/* Tabs content */}
+                <div className="container">
+                    <div className="row">
+                        <div className="col">
+                            <div className="tab-content">
+                                {/* Scores + Movie's info */}
+                                <div id="movie" className="tab-pane fade show active" role="tabpanel" aria-labelledby="movie-tab">
+                                    <div className="row mb-4">
+                                        <div className="col">
+                                            {/* Press rating */}
+                                            <div className="row">
+                                                <div className="col">
+                                                    <p className="mb-0">
+                                                        {/* Rounded to 1 decimal */}
+                                                        Presse : <b>{Math.round(this.state.movie.pressRating * 10) / 10}</b>
+                                                    </p>
+                                                </div>
+
+                                                <div className="col text-center">
+                                                    <StarRating code={this.state.movie.code} rating={this.state.movie.pressRating}
+                                                                max={5}/>
+                                                </div>
+
+                                                <div className="col text-right">
+                                                    <p className="text-muted mb-0">
+                                                        {this.state.movie.pressReviewCount} avis
+                                                    </p>
+                                                </div>
                                             </div>
 
-                                            <div className="col text-center">
-                                                <StarRating code={this.state.movie.code} rating={this.state.movie.pressRating}
-                                                            max={5}/>
-                                            </div>
+                                            {/* Users rating */}
+                                            <div className="row">
+                                                <div className="col">
+                                                    <p className="mb-0">
+                                                        {/* Rounded to 1 decimal */}
+                                                        Public : <b>{Math.round(this.state.movie.userRating * 10) / 10}</b>
+                                                    </p>
+                                                </div>
 
-                                            <div className="col text-right">
-                                                <p className="text-muted mb-0">
-                                                    {this.state.movie.pressReviewCount} avis
-                                                </p>
-                                            </div>
-                                        </div>
+                                                <div className="col text-center">
+                                                    <StarRating code={this.state.movie.code} rating={this.state.movie.userRating}
+                                                                max={5}/>
+                                                </div>
 
-                                        {/* Users rating */}
-                                        <div className="row">
-                                            <div className="col">
-                                                <p className="mb-0">
-                                                    {/* Rounded to 1 decimal */}
-                                                    Public : <b>{Math.round(this.state.movie.userRating * 10) / 10}</b>
-                                                </p>
-                                            </div>
-
-                                            <div className="col text-center">
-                                                <StarRating code={this.state.movie.code} rating={this.state.movie.userRating}
-                                                            max={5}/>
-                                            </div>
-
-                                            <div className="col text-right">
-                                                <p className="text-muted mb-0">
-                                                    {this.state.movie.userReviewCount} avis
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                {/* Directors */}
-                                <p>
-                                    <span className="text-uppercase text-muted">De : </span>
-                                    {this.state.movie.directors}
-                                </p>
-
-                                {/* Actors */}
-                                <p>
-                                    <span className="text-uppercase text-muted">Avec : </span>
-                                    {this.state.movie.actors}
-                                </p>
-
-                                {/* Synopsis */}
-                                <p className="text-uppercase text-muted mb-1">Synopsis</p>
-                                <p>{this.state.movie.synopsis}</p>
-                            </div>
-
-                            {/* Schedules */}
-                            <div id="seances" className="tab-pane fade show active" role="tabpanel" aria-labelledby="seances-tab">
-                                {this.state.movie.showtimes.map((showtime) => {
-                                    return (
-                                        <div key={showtime.type}>
-                                            <p className="mb-0 font-weight-bold lead">{showtime.type}</p>
-
-                                            <div className="col">
-                                                <div className="row">
-                                                    {/* Carousel's prev */}
-                                                    <div className="col-1 my-auto p-0 text-left">
-                                                        <a className="text-dark" href={"#"+showtime.type} role="button" data-slide="prev">
-                                                            <ion-icon name="arrow-back"/>
-                                                            <span className="sr-only">Previous</span>
-                                                        </a>
-                                                    </div>
-
-                                                    {/* Carousel's content */}
-                                                    <div className="col-10">
-                                                        <div className="carousel slide" data-ride="carousel"
-                                                             data-interval="false" id={showtime.type}>
-                                                            <div className="carousel-inner">
-                                                                {showtime.schedules.map((schedule, index) => {
-                                                                    let activeClass = index === 0 ? "active" : "";
-
-                                                                    return (
-                                                                        <div key={showtime.type + "_" + schedule.date} className={"carousel-item " + activeClass}>
-                                                                            <span className="text-uppercase text-muted">{moment(schedule.date, 'YYYY-MM-DD').format('ddd DD MMM')}</span>
-
-                                                                            <ul className="list-inline mb-1">
-                                                                                {schedule.seances.map((seance) => {
-                                                                                    return (
-                                                                                        <li key={schedule.date + "_" + seance} className="list-inline-item h5">
-                                                                                            <span className="badge badge-primary">{seance}</span>
-                                                                                        </li>
-                                                                                    )
-                                                                                })}
-                                                                            </ul>
-                                                                        </div>
-                                                                    )
-                                                                })}
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    {/* Carousel's next */}
-                                                    <div className="col-1 my-auto p-0 text-right">
-                                                        <a className="text-dark" href={"#"+showtime.type} role="button" data-slide="next">
-                                                            <ion-icon name="arrow-forward"/>
-                                                            <span className="sr-only">Next</span>
-                                                        </a>
-                                                    </div>
+                                                <div className="col text-right">
+                                                    <p className="text-muted mb-0">
+                                                        {this.state.movie.userReviewCount} avis
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
-                                    )
-                                })}
+                                    </div>
+
+                                    {/* Directors */}
+                                    <p>
+                                        <span className="text-uppercase text-muted">De : </span>
+                                        {this.state.movie.directors}
+                                    </p>
+
+                                    {/* Actors */}
+                                    <p>
+                                        <span className="text-uppercase text-muted">Avec : </span>
+                                        {this.state.movie.actors}
+                                    </p>
+
+                                    {/* Synopsis */}
+                                    <p className="text-uppercase text-muted mb-1">Synopsis</p>
+                                    <p>{this.state.movie.synopsis}</p>
+                                </div>
+
+                                {/* Schedules */}
+                                <div id="seances" className="tab-pane fade mb-5" role="tabpanel" aria-labelledby="seances-tab">
+                                    {this.state.movie.showtimes.map((showtime) => {
+                                        return (
+                                            <div key={showtime.type}>
+                                                <p className="mb-0 font-weight-bold lead">{showtime.type}</p>
+
+                                                <div className="col">
+                                                    <div className="row">
+                                                        {/* Carousel's prev */}
+                                                        <div className="col-1 my-auto p-0 text-left">
+                                                            <a className="text-dark" href={"#"+showtime.type} role="button" data-slide="prev">
+                                                                <ion-icon name="arrow-back"/>
+                                                                <span className="sr-only">Previous</span>
+                                                            </a>
+                                                        </div>
+
+                                                        {/* Carousel's content */}
+                                                        <div className="col-10">
+                                                            <div className="carousel slide" data-ride="carousel"
+                                                                 data-interval="false" id={showtime.type}>
+                                                                <div className="carousel-inner">
+                                                                    {showtime.schedules.map((schedule, index) => {
+                                                                        let activeClass = index === 0 ? "active" : "";
+
+                                                                        return (
+                                                                            <div key={showtime.type + "_" + schedule.date} className={"carousel-item " + activeClass}>
+                                                                                <span className="text-uppercase text-muted">{moment(schedule.date, 'YYYY-MM-DD').format('ddd DD MMM')}</span>
+
+                                                                                <ul className="list-inline mb-1">
+                                                                                    {schedule.seances.map((seance) => {
+                                                                                        return (
+                                                                                            <li key={schedule.date + "_" + seance} className="list-inline-item h5">
+                                                                                                <span className="badge badge-primary">{seance}</span>
+                                                                                            </li>
+                                                                                        )
+                                                                                    })}
+                                                                                </ul>
+                                                                            </div>
+                                                                        )
+                                                                    })}
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                        {/* Carousel's next */}
+                                                        <div className="col-1 my-auto p-0 text-right">
+                                                            <a className="text-dark" href={"#"+showtime.type} role="button" data-slide="next">
+                                                                <ion-icon name="arrow-forward"/>
+                                                                <span className="sr-only">Next</span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        )
+                                    })}
+                                </div>
                             </div>
                         </div>
                     </div>

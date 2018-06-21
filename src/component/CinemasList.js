@@ -32,13 +32,16 @@ class CinemasList extends React.Component {
         // Actually do the request
         axios.get(queryUrl, {"user-agent": alloCine.userAgent, "timeout": 10000})
             .then(response => {
+                console.log(response.data);
                 this.setState({apiPending: false});
 
-                let cinemas = [];
-                for (let cinema of response.data.feed.theater) {
-                    cinemas.push(cinema);
+                if(response.data.feed.totalResults > 0){
+                    let cinemas = [];
+                    for (let cinema of response.data.feed.theater) {
+                        cinemas.push(cinema);
+                    }
+                    this.props.dispatch(addCinemas(cinemas));
                 }
-                this.props.dispatch(addCinemas(cinemas));
             })
             .catch(function (error) {
                 console.error(error);
@@ -90,29 +93,35 @@ class CinemasList extends React.Component {
 
     render() {
         return (
-            <div className="row">
-                <div className="col">
-                    <CinemaListFilter/>
+            <div className="container pt-3">
+                <div className="row">
+                    <div className="col">
+                        {(!this.state.apiError && !this.state.geoError && !this.state.apiPending && this.props.cinemas.length > 0) && <CinemaListFilter/>}
 
-                    {this.state.apiError && <div className="alert alert-danger mt-4" role="alert">
-                        Hum... That's embarrassing but an error occurred... <br/>
-                        Please try again in a few minutes
-                    </div>}
+                        {this.state.apiError && <div className="alert alert-danger mt-4" role="alert">
+                            Hum... That's embarrassing but an error occurred... <br/>
+                            Please try again in a few minutes
+                        </div>}
 
-                    {this.state.geoError && <div className="alert alert-danger mt-4" role="alert">
-                        Hum... That's embarrassing but an error occurred... <br/>
-                        <b>{this.state.geoError}</b>
-                    </div>}
+                        {this.state.geoError && <div className="alert alert-danger mt-4" role="alert">
+                            Hum... That's embarrassing but an error occurred... <br/>
+                            <b>{this.state.geoError}</b>
+                        </div>}
 
-                    {this.state.apiPending && <p className="text-center mt-4">
-                        <i className="fa fa-circle-o-notch fa-spin fa-4x fa-fw" aria-hidden="true"></i>
-                    </p>}
+                        {this.state.apiPending && <p className="text-center mt-4">
+                            <i className="fa fa-circle-o-notch fa-spin fa-4x fa-fw" aria-hidden="true"></i>
+                        </p>}
 
-                    <ul className="list-group">
-                        {this.props.cinemas.map((cinema) => {
-                            return <CinemasListItem key={cinema.code} {...cinema}/>
-                        })}
-                    </ul>
+                        {!this.state.apiPending && this.props.cinemas.length === 0 && <div className="alert alert-info mt-4" role="alert">
+                            Hum... That's embarrassing but we didn't found any cinemas around you...
+                        </div>}
+
+                        <ul className="list-group">
+                            {this.props.cinemas.map((cinema) => {
+                                return <CinemasListItem key={cinema.code} {...cinema}/>
+                            })}
+                        </ul>
+                    </div>
                 </div>
             </div>
         )

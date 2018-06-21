@@ -5,15 +5,17 @@ import httpBuildQuery from 'http-build-query'
 
 class AlloCine {
     constructor(partnerKey, secretKey) {
-        this.partnerKey = '100043982026';
-        this.secretKey = '29d185d98c984a359e6e6f26a0474269';
         this.apiUrl = "http://api.allocine.fr/rest/v3";
         this.userAgent = "Dalvik/1.6.0 (Linux; U; Android 4.2.2; Nexus 4 Build/JDQ39E)";
+
+        this._partnerKey = '100043982026';
+        this._secretKey = '29d185d98c984a359e6e6f26a0474269';
+        this._defaultRadius = 10;
     }
 
     _prepareRequest(endPoint, params = {}) {
         // Add required params value
-        params.partner = this.partnerKey;
+        params.partner = this._partnerKey;
 
         // Build URL
         let queryUrl = this.apiUrl + '/' + endPoint;
@@ -22,7 +24,7 @@ class AlloCine {
         let sed = moment().format('YYYYMMDD');
         let sign = encodeURIComponent(
             Base64.stringify(
-                sha1(this.secretKey + httpBuildQuery(params) + '&sed=' + sed)
+                sha1(this._secretKey + httpBuildQuery(params) + '&sed=' + sed)
             )
         );
         queryUrl += '?' + httpBuildQuery(params) + '&sed=' + sed + '&sig=' + sign;
@@ -36,7 +38,7 @@ class AlloCine {
             zip,
             lat,
             long,
-            radius: '5',
+            radius: this._defaultRadius,
             theater: '',
             location: '',
             format: 'json',
@@ -50,7 +52,7 @@ class AlloCine {
             zip: '',
             lat: '',
             long: '',
-            radius: '5',
+            radius: this._defaultRadius,
             theaters: cinemaCode,
             location: '',
             movie: movieCode,

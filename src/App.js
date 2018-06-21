@@ -14,7 +14,7 @@ const AppRouter = () => {
             <div>
                 <Header/>
 
-                <div className="container pt-3">
+                {/*<div className="container pt-3">*/}
                     <Switch>
                         <Route path="/" component={CinemasList} exact={true} />
                         <Route path="/cinemas" component={CinemasList} exact={true} />
@@ -22,7 +22,7 @@ const AppRouter = () => {
                         <Route path="/movies/:cinemaCode/:movieCode" component={MovieDashboard} />
                         <Route component={NotFoundPage} />
                     </Switch>
-                </div>
+                {/*</div>*/}
             </div>
         </BrowserRouter>
     )
