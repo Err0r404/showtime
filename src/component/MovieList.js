@@ -7,6 +7,7 @@ import MoviesListFilter from "./MoviesListFilter";
 import getVisibleMovies from "../selectors/movies";
 import AlloCine from "../api/allocine";
 import {addMovies, clearMovies} from "../actions/movies";
+import {setBackTo} from "../actions/backTo";
 
 class MovieList extends React.Component {
     constructor(props) {
@@ -25,6 +26,8 @@ class MovieList extends React.Component {
     }
 
     componentDidMount() {
+        this.props.dispatch(setBackTo("/cinemas"));
+
         if (this.props.movies.length > 0) {
             this.props.dispatch(clearMovies());
         }
@@ -155,7 +158,7 @@ class MovieList extends React.Component {
                 </div>
             </div>);
     }
-};
+}
 
 const mapStateToProps = (state) => {
     return {

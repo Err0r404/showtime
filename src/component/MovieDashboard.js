@@ -1,10 +1,12 @@
 import React from 'react';
+import {connect} from "react-redux";
 import axios from "axios/index";
 import moment from "moment/moment";
 import 'moment/locale/fr'
 
 import AlloCine from "../api/allocine";
 import StarRating from "./StarRating";
+import {setBackTo} from "../actions/backTo";
 
 class MovieDashboard extends React.Component {
     constructor(props) {
@@ -33,6 +35,8 @@ class MovieDashboard extends React.Component {
     }
 
     componentDidMount() {
+        this.props.dispatch(setBackTo("/cinemas/"+this.props.match.params.cinemaCode));
+
         let alloCine = new AlloCine();
         let queryUrl = alloCine.showtimeList(this.props.match.params.cinemaCode, this.props.match.params.movieCode, '');
 
@@ -343,4 +347,8 @@ class MovieDashboard extends React.Component {
     }
 }
 
-export default MovieDashboard;
+const mapStateToProps = (state) => {
+    return {};
+};
+
+export default connect(mapStateToProps)(MovieDashboard);

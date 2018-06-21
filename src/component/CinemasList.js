@@ -7,6 +7,7 @@ import CinemaListFilter from "./CinemasListFilter";
 import getVisibleCinemas from "../selectors/cinemas";
 import AlloCine from "../api/allocine";
 import {addCinemas, clearCinemas} from "../actions/cinemas";
+import {setBackTo} from "../actions/backTo";
 
 class CinemasList extends React.Component {
     constructor(props) {
@@ -51,6 +52,8 @@ class CinemasList extends React.Component {
     }
 
     componentDidMount() {
+        this.props.dispatch(setBackTo(""));
+
         this.setState({apiPending: true});
         this.props.dispatch(clearCinemas());
 
