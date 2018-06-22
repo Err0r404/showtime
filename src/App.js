@@ -3,6 +3,7 @@ import React from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 
 import Header from './component/Header';
+import Drawer from "./component/Drawer";
 import CinemasList from "./component/CinemasList";
 import MovieList from "./component/MovieList";
 import NotFoundPage from "./component/NotFoundPage";
@@ -11,8 +12,10 @@ import MovieDashboard from "./component/MovieDashboard";
 const AppRouter = () => {
     return (
         <BrowserRouter>
-            <div>
+            <div className="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay">
                 <Header/>
+
+                <Drawer/>
 
                 {/*<div className="container pt-3">*/}
                     <Switch>
