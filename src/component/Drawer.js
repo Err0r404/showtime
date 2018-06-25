@@ -13,7 +13,7 @@ const Drawer = () => {
 
             <div className="p-3">
                 <div className="alert alert-info" role="alert">
-                    You can select a zip code to find cinemas where ever you want!
+                    You can choose a zip code to find cinemas where ever you want!
                     <br/>
                     Go give it a try
                 </div>
@@ -31,6 +31,10 @@ const Drawer = () => {
                 </form>
             </div>
 
+            <div style={{position: "absolute", bottom: 0, width: "100%"}}>
+                <p className="text-center text-muted mb-1">Made with <i className="fa fa-heart text-danger ml-1 mr-1"/> by Julien</p>
+                <p className="text-center text-muted">Powered by <a href="https://allocine.com" target="_blank" className="text-dark">AlloCine</a></p>
+            </div>
         </div>
     )
 };
