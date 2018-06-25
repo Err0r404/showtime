@@ -8,16 +8,17 @@ import CinemasList from "./component/CinemasList";
 import MovieList from "./component/MovieList";
 import NotFoundPage from "./component/NotFoundPage";
 import MovieDashboard from "./component/MovieDashboard";
+import Footer from "./component/Footer";
 
 const AppRouter = () => {
     return (
         <BrowserRouter>
-            <div className="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay">
-                <Header/>
+            <div>
+                <div className="bmd-layout-container bmd-drawer-f-r bmd-drawer-overlay">
+                    <Header/>
 
-                <Drawer/>
+                    <Drawer/>
 
-                {/*<div className="container pt-3">*/}
                     <Switch>
                         <Route path="/" component={CinemasList} exact={true} />
                         <Route path="/cinemas" component={CinemasList} exact={true} />
@@ -25,7 +26,10 @@ const AppRouter = () => {
                         <Route path="/movies/:cinemaCode/:movieCode" component={MovieDashboard} />
                         <Route component={NotFoundPage} />
                     </Switch>
-                {/*</div>*/}
+
+                </div>
+
+                <Footer/>
             </div>
         </BrowserRouter>
     )
