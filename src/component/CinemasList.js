@@ -57,6 +57,8 @@ class CinemasList extends React.Component {
         this.setState({apiPending: true});
         this.props.dispatch(clearCinemas());
 
+        // return;
+
         if(navigator.geolocation){
             this._geoSuccessCallback = (position) => {
                 console.log('lat: ',position.coords.latitude);

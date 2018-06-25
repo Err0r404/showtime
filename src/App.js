@@ -8,12 +8,11 @@ import CinemasList from "./component/CinemasList";
 import MovieList from "./component/MovieList";
 import NotFoundPage from "./component/NotFoundPage";
 import MovieDashboard from "./component/MovieDashboard";
-import Footer from "./component/Footer";
 
 const AppRouter = () => {
     return (
         <BrowserRouter>
-            <div>
+            <div style={{position: "relative", height: "100%", minHeight: "100%"}}>
                 <div className="bmd-layout-container bmd-drawer-f-r bmd-drawer-overlay">
                     <Header/>
 
@@ -26,10 +25,7 @@ const AppRouter = () => {
                         <Route path="/movies/:cinemaCode/:movieCode" component={MovieDashboard} />
                         <Route component={NotFoundPage} />
                     </Switch>
-
                 </div>
-
-                <Footer/>
             </div>
         </BrowserRouter>
     )
