@@ -43,7 +43,7 @@ class MovieList extends React.Component {
                 this.setState({pending: false});
 
                 if(response.data.feed.totalResults > 0){
-                    console.log(response.data.feed.theaterShowtimes[0].place);
+                    console.log(response.data.feed.theaterShowtimes[0]);
 
                     this.setState({
                         cinema: {
@@ -53,58 +53,59 @@ class MovieList extends React.Component {
                         }
                     });
 
-
                     let movies = [];
-                    for (let movieShowtimes of response.data.feed.theaterShowtimes[0].movieShowtimes) {
-                        let found = false;
-                        for (let index in movies) {
-                            if (movies[index].code !== undefined && movies[index].code === movieShowtimes.onShow.movie.code) {
-                                found = index;
-                                break;
-                            }
-                        }
-
-                        if (found === false) {
-                            let genres = [];
-                            for (let genre of movieShowtimes.onShow.movie.genre) {
-                                genres.push(genre.$);
+                    if(response.data.feed.theaterShowtimes[0].movieShowtimes){
+                        for (let movieShowtimes of response.data.feed.theaterShowtimes[0].movieShowtimes) {
+                            let found = false;
+                            for (let index in movies) {
+                                if (movies[index].code !== undefined && movies[index].code === movieShowtimes.onShow.movie.code) {
+                                    found = index;
+                                    break;
+                                }
                             }
 
-                            let schedules = [];
-                            for (let schedule of movieShowtimes.scr[0].t) {
-                                schedules.push(schedule.$)
+                            if (found === false) {
+                                let genres = [];
+                                for (let genre of movieShowtimes.onShow.movie.genre) {
+                                    genres.push(genre.$);
+                                }
+
+                                let schedules = [];
+                                for (let schedule of movieShowtimes.scr[0].t) {
+                                    schedules.push(schedule.$)
+                                }
+
+                                let showtime = {
+                                    type: movieShowtimes.version.$ + ', ' + movieShowtimes.screenFormat.$,
+                                    schedules
+                                };
+
+                                movies.push({
+                                    code: movieShowtimes.onShow.movie.code,
+                                    title: movieShowtimes.onShow.movie.title,
+                                    runtime: movieShowtimes.onShow.movie.runtime,
+                                    genres,
+                                    directors: movieShowtimes.onShow.movie.castingShort.directors,
+                                    actors: movieShowtimes.onShow.movie.castingShort.actors,
+                                    pressRating: movieShowtimes.onShow.movie.statistics.pressRating,
+                                    userRating: movieShowtimes.onShow.movie.statistics.userRating,
+                                    poster: movieShowtimes.onShow.movie.poster.href,
+                                    showtimes: [showtime]
+                                });
                             }
+                            else {
+                                let schedules = [];
+                                for (let schedule of movieShowtimes.scr[0].t) {
+                                    schedules.push(schedule.$)
+                                }
 
-                            let showtime = {
-                                type: movieShowtimes.version.$ + ', ' + movieShowtimes.screenFormat.$,
-                                schedules
-                            };
+                                let showtime = {
+                                    type: movieShowtimes.version.$ + ', ' + movieShowtimes.screenFormat.$,
+                                    schedules
+                                };
 
-                            movies.push({
-                                code: movieShowtimes.onShow.movie.code,
-                                title: movieShowtimes.onShow.movie.title,
-                                runtime: movieShowtimes.onShow.movie.runtime,
-                                genres,
-                                directors: movieShowtimes.onShow.movie.castingShort.directors,
-                                actors: movieShowtimes.onShow.movie.castingShort.actors,
-                                pressRating: movieShowtimes.onShow.movie.statistics.pressRating,
-                                userRating: movieShowtimes.onShow.movie.statistics.userRating,
-                                poster: movieShowtimes.onShow.movie.poster.href,
-                                showtimes: [showtime]
-                            });
-                        }
-                        else {
-                            let schedules = [];
-                            for (let schedule of movieShowtimes.scr[0].t) {
-                                schedules.push(schedule.$)
+                                movies[found].showtimes.push(showtime);
                             }
-
-                            let showtime = {
-                                type: movieShowtimes.version.$ + ', ' + movieShowtimes.screenFormat.$,
-                                schedules
-                            };
-
-                            movies[found].showtimes.push(showtime);
                         }
                     }
                     this.props.dispatch(addMovies(movies));

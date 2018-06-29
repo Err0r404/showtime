@@ -5,13 +5,13 @@ const StarRating = ({rating, max, code}) => {
 
         <div>
             {[...Array(Math.floor(rating))].map((x, i) =>
-                <ion-icon key={code+i} name="star"></ion-icon>
+                <i key={code+i} className="icon ion-md-star p-1"/>
             )}
 
-            {Math.floor(rating) !== (Math.round(rating * 2) / 2) ? <ion-icon name="star-half"></ion-icon> : ''}
+            {Math.floor(rating) !== (Math.round(rating * 2) / 2) ? <i className="icon ion-md-star-half p-1"/> : ''}
 
             {[...Array(max - Math.round(Math.round(rating * 2) / 2))].map((x, i) =>
-                <ion-icon key={code+i} name="star-outline"></ion-icon>
+                <i key={code+i} className="icon ion-md-star-outline p-1"/>
             )}
         </div>
     )

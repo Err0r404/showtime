@@ -292,7 +292,7 @@ class MovieDashboard extends React.Component {
                                                         {/* Carousel's prev */}
                                                         <div className="col-1 my-auto p-0 text-left">
                                                             <a className="text-dark" href={"#"+showtime.type} role="button" data-slide="prev">
-                                                                <ion-icon name="arrow-back"/>
+                                                                <i className="icon ion-md-arrow-back"/>
                                                                 <span className="sr-only">Previous</span>
                                                             </a>
                                                         </div>
@@ -328,7 +328,7 @@ class MovieDashboard extends React.Component {
                                                         {/* Carousel's next */}
                                                         <div className="col-1 my-auto p-0 text-right">
                                                             <a className="text-dark" href={"#"+showtime.type} role="button" data-slide="next">
-                                                                <ion-icon name="arrow-forward"/>
+                                                                <i className="icon ion-md-arrow-forward"/>
                                                                 <span className="sr-only">Next</span>
                                                             </a>
                                                         </div>

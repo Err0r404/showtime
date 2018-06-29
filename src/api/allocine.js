@@ -4,7 +4,7 @@ import sha1 from 'crypto-js/sha1';
 import httpBuildQuery from 'http-build-query'
 
 class AlloCine {
-    constructor(partnerKey, secretKey) {
+    constructor() {
         this.apiUrl = "http://api.allocine.fr/rest/v3";
         this.userAgent = "Dalvik/1.6.0 (Linux; U; Android 4.2.2; Nexus 4 Build/JDQ39E)";
 
@@ -28,16 +28,29 @@ class AlloCine {
             )
         );
         queryUrl += '?' + httpBuildQuery(params) + '&sed=' + sed + '&sig=' + sign;
-        // console.log('URL', queryUrl);
 
         return queryUrl;
     }
 
-    theaterList(zip, lat, long) {
+    theaterListByCoord(lat, long) {
         const params = {
-            zip,
+            zip : '',
             lat,
             long,
+            radius: this._defaultRadius,
+            theater: '',
+            location: '',
+            format: 'json',
+        };
+
+        return this._prepareRequest('theaterlist', params);
+    }
+
+    theaterListByZip(zip) {
+        const params = {
+            zip,
+            lat: '',
+            long: '',
             radius: this._defaultRadius,
             theater: '',
             location: '',

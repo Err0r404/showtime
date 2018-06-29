@@ -16,16 +16,21 @@
 -------------------------------------------------- */
 html {
     position: relative;
-    height: 100% !important;
+    /*height: 100% !important;*/
     min-height: 100%;
 }
 body {
     position: relative;
-    height: 100% !important;
+    /*height: 100% !important;*/
     min-height: 100%;
 }
 
 .bmd-drawer-f-r > .bmd-layout-drawer {
     width: 80%;
     transform: translateX(100%);
+    position: fixed;
+}
+
+.bmd-layout-backdrop.in {
+    position: fixed;
 }

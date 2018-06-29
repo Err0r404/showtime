@@ -2,6 +2,8 @@ import React from 'react';
 import {connect} from 'react-redux'
 import axios from 'axios';
 
+import store from '../store/configureStore';
+
 import CinemasListItem from './CinemasListItem'
 import CinemaListFilter from "./CinemasListFilter";
 import getVisibleCinemas from "../selectors/cinemas";
@@ -22,21 +24,37 @@ class CinemasList extends React.Component {
                 lat: '',
                 long: ''
             },
+            zip: '',
             geoError: false
         };
     }
 
-    getData(lat, long){
-        let alloCine = new AlloCine();
-        let queryUrl = alloCine.theaterList('', lat, long);
+    getData(){
+        // console.log("getData", this.state.position, this.state.zip);
+        console.log("getData");
+
+        this.setState({apiPending: true});
+        this.props.dispatch(clearCinemas());
+
+        let alloCine = new AlloCine(store());
+
+        let queryUrl;
+        if (this.props.zip.value !== ""){
+            // console.log(this.state.zip);
+            queryUrl = alloCine.theaterListByZip(this.props.zip.value);
+        }
+        else {
+            // console.log(this.state.position.lat, this.state.position.long);
+            queryUrl = alloCine.theaterListByCoord(this.state.position.lat, this.state.position.long);
+        }
 
         // Actually do the request
-        axios.get(queryUrl, {"user-agent": alloCine.userAgent, "timeout": 10000})
+        axios.get(queryUrl, {"user-agent": AlloCine.userAgent, "timeout": 10000})
             .then(response => {
-                console.log(response.data);
+                // console.log(response.data);
                 this.setState({apiPending: false});
 
-                if(response.data.feed.totalResults > 0){
+                if(response.data.feed.totalResults && response.data.feed.totalResults > 0){
                     let cinemas = [];
                     for (let cinema of response.data.feed.theater) {
                         cinemas.push(cinema);
@@ -51,20 +69,38 @@ class CinemasList extends React.Component {
         ;
     }
 
+/*
+    componentWillReceiveProps(nextProps){
+        console.log("componentWillReceiveProps");
+
+        if(nextProps.zip.value !== this.props.zip.value){
+            if(nextProps.zip.value.length === 5 || nextProps.zip.value.length === 0){
+                this.setState({zip: nextProps.zip.value});
+                console.log("Reload Cinemas");
+                // console.log("Reload", this.state);
+                this.getData();
+            }
+        }
+    }
+*/
+
     componentDidMount() {
         this.props.dispatch(setBackTo(""));
 
         this.setState({apiPending: true});
-        this.props.dispatch(clearCinemas());
-
-        // return;
 
         if(navigator.geolocation){
             this._geoSuccessCallback = (position) => {
-                console.log('lat: ',position.coords.latitude);
-                console.log('long: ',position.coords.longitude);
+                // console.log('lat: ',position.coords.latitude);
+                // console.log('long: ',position.coords.longitude);
 
-                this.getData(position.coords.latitude, position.coords.longitude)
+                this.setState({
+                    position: {
+                        lat: position.coords.latitude,
+                        long: position.coords.longitude
+                    }
+                });
+                this.getData();
             };
 
             this._geoErrorCallback = (error) => {
@@ -97,6 +133,9 @@ class CinemasList extends React.Component {
     }
 
     render() {
+        // console.log(this.props.zip);
+        // this.getData();
+
         return (
             <div className="container pt-3">
                 <div className="row">
@@ -135,7 +174,8 @@ class CinemasList extends React.Component {
 
 const mapStateToProps = (state) => {
     return {
-        cinemas: getVisibleCinemas(state.cinemas, state.filters)
+        cinemas: getVisibleCinemas(state.cinemas, state.filters),
+        zip: state.zip
     }
 };
 
