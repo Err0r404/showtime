@@ -31,7 +31,7 @@ class CinemasList extends React.Component {
 
     getData(){
         // console.log("getData", this.state.position, this.state.zip);
-        console.log("getData");
+        // console.log("getData");
 
         this.setState({apiPending: true});
         this.props.dispatch(clearCinemas());
@@ -68,21 +68,6 @@ class CinemasList extends React.Component {
             })
         ;
     }
-
-/*
-    componentWillReceiveProps(nextProps){
-        console.log("componentWillReceiveProps");
-
-        if(nextProps.zip.value !== this.props.zip.value){
-            if(nextProps.zip.value.length === 5 || nextProps.zip.value.length === 0){
-                this.setState({zip: nextProps.zip.value});
-                console.log("Reload Cinemas");
-                // console.log("Reload", this.state);
-                this.getData();
-            }
-        }
-    }
-*/
 
     componentDidMount() {
         this.props.dispatch(setBackTo(""));
@@ -129,6 +114,12 @@ class CinemasList extends React.Component {
         }
         else {
             console.log("Geolocation is not supported for this Browser/OS.");
+        }
+    }
+
+    componentDidUpdate(prevProps) {
+        if (prevProps.zip.value !== this.props.zip.value && this.props.zip.value.length === 5) {
+            this.getData();
         }
     }
 
